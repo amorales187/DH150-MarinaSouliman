@@ -46,7 +46,8 @@ At the bottom of the webpage there is a sign up button next to the asylum and do
 
 The sign up button and the Take action button are both third on that list of buttons which may confuse the user that they are the same action when in fact they are not. **(3)**
 
-
+<img src="./takeaction.png">
+<img src="./signup.png">
 
 ### 5: Error Prevention 
 If a user enters the wrong spelling for their email engine there is no warning given and the error is not prevented. In fact, it allows the user to continue on and makes it so they have signed up to the mailing server. The user would not know that they made this error and therefore would wrongfully believe that they were signed up to the mailing list. **(3)**
@@ -91,7 +92,7 @@ If a user inputs a nonexistent address, it provides the user with an input error
 <img src="./Address Error.png">
 
 If there’s an incorrect search term, the search offers an error and helps the user figure out what the issue is. 
-
+<img src="./searchengine.png">
  
 ### 10: Help and documentation 
 This FAQ page can be improved in terms of design as it just offers a list of questions and a very wordy documentation. It could be improved in terms of size by having the questions serve as a clickable and expandable feature. This would decrease how long it takes to go through the page and can help the user pick the appropriate question without having to go through a lot of information. **(2)**
