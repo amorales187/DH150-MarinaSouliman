@@ -5,8 +5,9 @@ Education is the key to social change. Many nonprofit organizations work to educ
 
 #### Website 1: Human Rights First 
 https://www.humanrightsfirst.org/
-
-
+The Human Rights First website starts at the home page with a heading bar that allows for a user to navigate through an about page, campaigns, topics, resources, media and vets for american ideals. Below that is a slideshow type graphic that offers a look at their initiatives and events. There are a lot of resources and services offered on this website for both the general public and those seeking legal services. 
+ 
+The website is functional and works well but has some UX issues that could help improve usability. It’s often at times overwhelming with a lot of text and has a design that could be more cohesive with a better flow for information. There are some features that feel outdated and could be designed in a more appealing manner. Overall, it’s a functional website that could use a little bit of sprucing up when it comes to certain features. 
 
 <img src="./Human Rights First Webpage Screenshot.png">
 
