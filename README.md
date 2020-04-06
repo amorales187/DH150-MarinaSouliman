@@ -42,10 +42,16 @@ If you click on the Vets for American Ideals, it takes you to a new webpage for 
 ### 4: Consistency and Standards
 At the bottom of the webpage there is a sign up button next to the asylum and donate button. Sign up buttons are typically on the top right corner and it would probably be more visible to the user if it was there. **(2)**
 
+<img src="./Consistency.png">
+
 The sign up button and the Take action button are both third on that list of buttons which may confuse the user that they are the same action when in fact they are not. **(3)**
+
 
 ### 5: Error Prevention 
 If a user enters the wrong spelling for their email engine there is no warning given and the error is not prevented. In fact, it allows the user to continue on and makes it so they have signed up to the mailing server. The user would not know that they made this error and therefore would wrongfully believe that they were signed up to the mailing list. **(3)**
+
+<img src="./Email Error.png">
+
  
 ### 6: Recognition rather than recall
  
@@ -54,6 +60,8 @@ The website is very good at categorizing the articles under the specific campaig
 
 On every page there’s a navigation tool that shows the user where they are in the website. Although this is helpful for decreasing the user’s memory load, it feels like repeated information as the same navigation tool is available in the menu. This screenshot shows that there’s a bar above the article title that says “Home/Campaigns/Title of the Article.” **(2)**
 
+<img src="./Consistency.png">
+
  
 ### 7: Flexibility and efficiency of use 
 An accelerator that is very common among websites is allowing the logo for the website to take the user to the home. 
@@ -61,6 +69,8 @@ An accelerator that is very common among websites is allowing the logo for the w
 <img src="./accelerator.png">
 
 These are also considered accelerators that allow the user to go quickly to the social media website. This is a fast way to get to the websites and is available to the user at all times. 
+
+<img src="./social media.png">
  
 ### 8: Aesthetic and minimalist design 
 The website is very text heavy on the media press releases page and has a lot of information going on. I think providing an article headline and a date to the press release is a more aesthetic design. I personally found the text heavy links very overwhelming and it stopped me from exploring that page. **(3)**
