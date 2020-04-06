@@ -170,7 +170,7 @@ The website has a lot of text information in a very small space so it makes it f
 
 These two actions are right next to each other and offer very similar information. Consolidating it underneath one label would help declutter the design. **(2)**
 
-<img src="./png">
+<img src="./cons-stand-1.png">
 
 ### 9: Help users recognize, diagnose and recover from errors
 The website has a nonspecific message for the user when they enter an email and password combo. Furthermore, although I do not have an account made it’s not stating there’s no account of that nature. A more descriptive error message would be helpful in users recognize the issue. **(2)**
