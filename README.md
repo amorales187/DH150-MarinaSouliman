@@ -103,3 +103,16 @@ This FAQ page can be improved in terms of design as it just offers a list of que
 
 ## Website 2: The Advocates for Human Rights 
 https://www.theadvocatesforhumanrights.org/
+Insert Paragraph 
+
+### 1: Visibility System of Status
+### 2: Match between system and the real world
+### 3: User Control and Freedom 
+### 4: Consistency and Standards
+### 5: Error Prevention
+### 6: Recognition rather than recall
+### 7: Flexibility and efficiency of use 
+### 8: Aesthetic and minimalist design 
+### 9: Help users recognize, diagnose and recover from errors
+### 10: Help and documentation
+
