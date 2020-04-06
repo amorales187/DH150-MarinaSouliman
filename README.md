@@ -106,13 +106,45 @@ https://www.theadvocatesforhumanrights.org/
 Insert Paragraph 
 
 ### 1: Visibility System of Status
+On the sidebar to the left, there are categorized quick links. When you hover over them there’s no indication that it’s being selected. This is inconsistent with the rest of the website as when you over other links they’re often underlined or change color. 
+
+On the quicklinks page, there’s a link to a sub-organization focused on violence against women. This takes you to a completely different website with no warning. 
+
 ### 2: Match between system and the real world
-### 3: User Control and Freedom 
+Like many websites, this website offers a search option. It’s just marked as a simple box with the word search next to it which works and follows a lot of the same standards as other websites. 
+
+### 3: User Control and Freedom
+When a user searches something in the search bar, it takes them to a google search window that is separate from the website. There’s no undo button except for the regular web browser button. There is no expectation that the webpage would take it to a Google search and no way provided by the website itself to exit, making it a violation of the user’s control.
+
 ### 4: Consistency and Standards
+These two actions serve very similar purposes but can be confusing to the user as the phrasing “Take Action” is vague. The links underneath Take Action could be provided under Volunteer as a subsection.
+
+The navigation bar has a Blog option but under news and events there’s an E-news option that has no further explanation. The user does not know if the blog and e-news are the same options and thus this is inconsistent. 
 ### 5: Error Prevention
+The search option offers no auto-suggestion or method of preventing users from making search mistakes. It would be helpful to see auto suggestions for search items a user is looking up depending on more frequently searched terms.
+
 ### 6: Recognition rather than recall
+When clicking the donate button, there’s an option for the user to log in. However there is no clear place where a user is prompted to create an account if they’re a new user. It’s not a visible option and thus user must actively search to find a way to make an account. 
+
+The donate button is very apparent as when you’re on any page, there are three options available for you to donate. Although repetitive, it allows the user ease of access for that option. 
 ### 7: Flexibility and efficiency of use 
+Each overview page has a reiteration of what topics/subsections are provided. There are also hyperlinks that lead the user to the appropriate page. This is consistent throughout the website and can speeds up a user’s ability to reach specific topics. These subsections are provided as well under the top menu and also serves an accelerator to finding the appropriate topic. 
+
+Calendar of events: There’s a plugin calendar provided on the events page. This allows the user to see what events are happening that month. There aren’t many events so the calendar is mostly empty space and doesn’t inform the user of much as it cuts off the information. Underneath the calendar are the descriptions but they are disorganized and are not cohesive.
+
+This website has a common accelerator where if you click on the logo it will lead to the home page. However, this is inconsistent and doesn’t work when you try to exit out of the donate page. 
+
 ### 8: Aesthetic and minimalist design 
+The website has a lot of text information in a very small space so it makes it feel overwhelming to the user. The design feels busy and somewhat frustrating to use. 
+
+The website has two color columns on either side of the website that don’t serve any purpose and just take up space. 
+
+These two actions are right next to each other and offer very similar information. Consolidating it underneath one label would help declutter the design. 
+
 ### 9: Help users recognize, diagnose and recover from errors
+The website has a nonspecific message for the user when they enter an email and password combo. Furthermore, although I do not have an account made it’s not stating there’s no account of that nature. 
+
+If a user types a wrong email so for example writes gnail instead of gmail, there’s an indication you made an error and it has an informative error message. 
 ### 10: Help and documentation
+There are not many documentation options but there’s a FAQ for internships provided by the organization. I think it’s very text heavy and hard to navigate because of that. A more user friendly approach to FAQs could utilize a click to see the response to the question option. 
 
