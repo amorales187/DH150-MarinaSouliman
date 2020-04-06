@@ -101,4 +101,5 @@ This FAQ page can be improved in terms of design as it just offers a list of que
 <img src="./FAQ.png">
 
 
-
+## Website 2: The Advocates for Human Rights 
+https://www.theadvocatesforhumanrights.org/
