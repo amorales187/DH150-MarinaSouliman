@@ -182,7 +182,7 @@ These two actions are right next to each other and offer very similar informatio
 ### 9: Help users recognize, diagnose and recover from errors
 The website has a nonspecific message for the user when they enter an email and password combo. Furthermore, although I do not have an account made it’s not stating there’s no account of that nature. A more descriptive error message would be helpful in users recognize the issue. **(2)**
 
-<img src="./intern-faq.png">
+<img src="./.png">
 
 If a user types a wrong email so for example writes gnail instead of gmail, there’s an indication you made an error and it has an informative error message. 
 
