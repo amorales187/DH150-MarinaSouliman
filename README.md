@@ -123,6 +123,8 @@ Like many websites, this website offers a search option. It’s just marked as a
 
 The website also utilizes social media icons to represent links that lead to the respective social media website. This is easy to use and recognizable to the user because of their previous experience with social media. 
 
+<img src="./socialmedia.png">
+
 ### 3: User Control and Freedom
 When a user searches something in the search bar, it takes them to a google search window that is separate from the website. There’s no undo button except for the regular web browser button. There is no expectation that the webpage would take it to a Google search and no way provided by the website itself to exit, making it a violation of the user’s control. 
 
@@ -142,13 +144,18 @@ The navigation bar has a Blog option but under news and events there’s an E-ne
 
 
 ### 5: Error Prevention
+
 The search option offers no auto-suggestion or method of preventing users from making search mistakes. It would be helpful to see auto suggestions for search items a user is looking up depending on more frequently searched terms. **(2)**
 
 
 ### 6: Recognition rather than recall
 When clicking the donate button, there’s an option for the user to log in. However there is no clear place where a user is prompted to create an account if they’re a new user. It’s not a visible option and thus user must actively search to find a way to make an account. **(2)**
 
+<img src="./donatesignup.png">
+
 The donate button is very apparent as when you’re on any page, there are three options available for you to donate. Although repetitive, it allows the user ease of access for that option. **(2)**
+
+<img src="./donatealot.png">
 
 ### 7: Flexibility and efficiency of use 
 Each overview page has a reiteration of what topics/subsections are provided. There are also hyperlinks that lead the user to the appropriate page. This is consistent throughout the website and can speeds up a user’s ability to reach specific topics. These subsections are provided as well under the top menu and also serves an accelerator to finding the appropriate topic. 
