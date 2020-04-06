@@ -112,31 +112,31 @@ On the sidebar to the left, there are categorized quick links. When you hover ov
 
 On the quicklinks page, there’s a link to a sub-organization focused on violence against women. This takes you to a completely different website with no warning. 
 
-<img src="./Screen Shot 2020-04-06 at 2.36.20 AM">
+<img src="./Screen Shot 2020-04-06 at 2.36.20 AM.png">
 
 ### 2: Match between system and the real world
 Like many websites, this website offers a search option. It’s just marked as a simple box with the word search next to it which works and follows a lot of the same standards as other websites. 
 
-<img src="./match">
+<img src="./match.png">
 
 ### 3: User Control and Freedom
 When a user searches something in the search bar, it takes them to a google search window that is separate from the website. There’s no undo button except for the regular web browser button. There is no expectation that the webpage would take it to a Google search and no way provided by the website itself to exit, making it a violation of the user’s control.
 
 
-
 ### 4: Consistency and Standards
 These two actions serve very similar purposes but can be confusing to the user as the phrasing “Take Action” is vague. The links underneath Take Action could be provided under Volunteer as a subsection.
 
-<img src="./cons-stand-1">
+<img src="./cons-stand-1.png">
 
 The navigation bar has a Blog option but under news and events there’s an E-news option that has no further explanation. The user does not know if the blog and e-news are the same options and thus this is inconsistent. 
-<img src="./const-2">
 
-<img src="./const-3">
+<img src="./const-2.png">
 
-<img src="./const-2">
+<img src="./const-3.png">
 
-<img src="./cons-stan-pt2">
+<img src="./const-4.png">
+
+
 
 ### 5: Error Prevention
 The search option offers no auto-suggestion or method of preventing users from making search mistakes. It would be helpful to see auto suggestions for search items a user is looking up depending on more frequently searched terms.
@@ -149,15 +149,15 @@ The donate button is very apparent as when you’re on any page, there are three
 ### 7: Flexibility and efficiency of use 
 Each overview page has a reiteration of what topics/subsections are provided. There are also hyperlinks that lead the user to the appropriate page. This is consistent throughout the website and can speeds up a user’s ability to reach specific topics. These subsections are provided as well under the top menu and also serves an accelerator to finding the appropriate topic. 
 
-<img src="./flexibility1">
+<img src="./flexibility1.png">
 
 There’s a plugin calendar provided on the events page. This allows the user to see what events are happening that month. There aren’t many events so the calendar is mostly empty space and doesn’t inform the user of much as it cuts off the information. Underneath the calendar are the descriptions but they are disorganized and are not cohesive.
 
-<img src="./calendar">
+<img src="./calendar.png">
 
 This website has a common accelerator where if you click on the logo it will lead to the home page. However, this is inconsistent and doesn’t work when you try to exit out of the donate page. 
 
-<img src="./accelerator">
+<img src="./accelerator.png">
 
 ### 8: Aesthetic and minimalist design
 The website has a lot of text information in a very small space so it makes it feel overwhelming to the user. The design feels busy and somewhat frustrating to use. 
