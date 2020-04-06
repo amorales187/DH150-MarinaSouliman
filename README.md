@@ -12,3 +12,7 @@ The website is functional and works well but has some UX issues that could help 
 
 <img src="./Human Rights First Webpage Screenshot.png">
 
+1: Visibility System of Status
+\-There should be an indication to the user that the menu bar can be expanded for example an arrow or some sort of indicator. The resources page does not expand like the others so a user might hover over it and wait to see if it expands. (1)
+
+
