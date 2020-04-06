@@ -6,6 +6,5 @@ Education is the key to social change. Many nonprofit organizations work to educ
 #### Website 1: Human Rights First 
 https://www.humanrightsfirst.org/
 
-![Human Rights First Webpage](Human Rights First Webpage Screenshot.png)
 <img src="./Human Rights First Webpage Screenshot.png">
 
