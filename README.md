@@ -91,6 +91,7 @@ If a user inputs a nonexistent address, it provides the user with an input error
 <img src="./Address Error.png">
 
 If there’s an incorrect search term, the search offers an error and helps the user figure out what the issue is. 
+
  
 ### 10: Help and documentation 
 This FAQ page can be improved in terms of design as it just offers a list of questions and a very wordy documentation. It could be improved in terms of size by having the questions serve as a clickable and expandable feature. This would decrease how long it takes to go through the page and can help the user pick the appropriate question without having to go through a lot of information. **(2)**
