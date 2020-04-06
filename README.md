@@ -44,28 +44,38 @@ At the bottom of the webpage there is a sign up button next to the asylum and do
 The sign up button and the Take action button are both third on that list of buttons which may confuse the user that they are the same action when in fact they are not. **(3)**
 
 ### 5: Error Prevention 
-If a user enters the wrong spelling for their email engine there is no warning given and the error is not prevented. In fact, it allows the user to continue on and makes it so they have signed up to the mailing server. The user would not know that they made this error and therefore would wrongfully believe that they were signed up to the mailing list. (3)
+If a user enters the wrong spelling for their email engine there is no warning given and the error is not prevented. In fact, it allows the user to continue on and makes it so they have signed up to the mailing server. The user would not know that they made this error and therefore would wrongfully believe that they were signed up to the mailing list. **(3)**
  
 ### 6: Recognition rather than recall
  
 The website is very good at categorizing the articles under the specific campaigns or categories so users don’t need to remember what campaign they were looking at. 
+<img src="./Goodconsistency.png">
 
 On every page there’s a navigation tool that shows the user where they are in the website. Although this is helpful for decreasing the user’s memory load, it feels like repeated information as the same navigation tool is available in the menu. This screenshot shows that there’s a bar above the article title that says “Home/Campaigns/Title of the Article.” **(2)**
+
  
 ### 7: Flexibility and efficiency of use 
 An accelerator that is very common among websites is allowing the logo for the website to take the user to the home. 
+
+<img src="./accelerator.png">
 
 These are also considered accelerators that allow the user to go quickly to the social media website. This is a fast way to get to the websites and is available to the user at all times. 
  
 ### 8: Aesthetic and minimalist design 
 The website is very text heavy on the media press releases page and has a lot of information going on. I think providing an article headline and a date to the press release is a more aesthetic design. I personally found the text heavy links very overwhelming and it stopped me from exploring that page. **(3)**
 
+<img src="./WordyText.png">
+
 The home page has a red bar that has a message regarding American rights advocacy and it feels very imposing on the page. It leads to a scroll like message with imagery that’s meant to capture the organization’s mission statement. Although this is unique to the organization, the scroll feature makes the imagery slightly disconnected. **(1)**
+
+<img src="./minimalistdesignscrollthing.png">
 
 On every page there is a share link bar that can feel fairly imposing at times and is even visible for the search page which isn’t necessarily something a user is likely to share, making it just a new element on the page. **(1)**
  
 ### 9: Help users recognize, diagnose and recover from errors
-Address: If a user inputs a nonexistent address, it provides the user with an input error that specifies that the address was the incorrect input. This is fairly good as it provides the user with a specific error they can fix. 
+If a user inputs a nonexistent address, it provides the user with an input error that specifies that the address was the incorrect input. This is fairly good as it provides the user with a specific error they can fix. 
+
+<img src="./Address Error.png">
 
 If there’s an incorrect search term, the search offers an error and helps the user figure out what the issue is. 
  
