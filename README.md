@@ -107,6 +107,8 @@ The second website I'm analyzing is The Advocates for Human Rights. Similar to t
 
 There are a lot of places where improvement can occur for the sake of the usability. Overall, using more design elements to separate the text and effectively relay the information is essential in improving usability. Consolidating certain elements and webpages would be very helpful in having a more minimalist design. Utilizing the entire space provided on the webpage in an organized manner would make the website a lot easier to use. 
 
+<img src="./The Advocates for Human Rights-WebpageScreenshot.png">
+
 ### 1: Visibility System of Status
 On the sidebar to the left, there are categorized quick links. When you hover over them there’s no indication that it’s being selected. This is inconsistent with the rest of the website as when you over other links they’re often underlined or change color. **(2)**
 
@@ -182,7 +184,7 @@ These two actions are right next to each other and offer very similar informatio
 ### 9: Help users recognize, diagnose and recover from errors
 The website has a nonspecific message for the user when they enter an email and password combo. Furthermore, although I do not have an account made it’s not stating there’s no account of that nature. A more descriptive error message would be helpful in users recognize the issue. **(2)**
 
-<img src="./.png">
+<img src="./Screen Shot 2020-04-06 at 3.50.31 AM.png">
 
 If a user types a wrong email so for example writes gnail instead of gmail, there’s an indication you made an error and it has an informative error message. 
 
