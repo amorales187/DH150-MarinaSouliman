@@ -58,11 +58,12 @@ If a user enters the wrong spelling for their email engine there is no warning g
 ### 6: Recognition rather than recall
  
 The website is very good at categorizing the articles under the specific campaigns or categories so users don’t need to remember what campaign they were looking at. 
+
 <img src="./Goodconsistency.png">
 
 On every page there’s a navigation tool that shows the user where they are in the website. Although this is helpful for decreasing the user’s memory load, it feels like repeated information as the same navigation tool is available in the menu. This screenshot shows that there’s a bar above the article title that says “Home/Campaigns/Title of the Article.” **(2)**
 
-<img src="./consistency.png">
+<img src="./navigation.png">
 
  
 ### 7: Flexibility and efficiency of use 
