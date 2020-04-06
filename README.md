@@ -63,7 +63,7 @@ The website is very good at categorizing the articles under the specific campaig
 
 On every page there’s a navigation tool that shows the user where they are in the website. Although this is helpful for decreasing the user’s memory load, it feels like repeated information as the same navigation tool is available in the menu. This screenshot shows that there’s a bar above the article title that says “Home/Campaigns/Title of the Article.” **(2)**
 
-<img src="./navigation.png">
+<img src="./navigation2.png">
 
  
 ### 7: Flexibility and efficiency of use 
