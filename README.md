@@ -42,7 +42,7 @@ If you click on the Vets for American Ideals, it takes you to a new webpage for 
 ### 4: Consistency and Standards
 At the bottom of the webpage there is a sign up button next to the asylum and donate button. Sign up buttons are typically on the top right corner and it would probably be more visible to the user if it was there. **(2)**
 
-<img src="./Consistency.png">
+<img src="./consistency.png">
 
 The sign up button and the Take action button are both third on that list of buttons which may confuse the user that they are the same action when in fact they are not. **(3)**
 
@@ -62,7 +62,7 @@ The website is very good at categorizing the articles under the specific campaig
 
 On every page there’s a navigation tool that shows the user where they are in the website. Although this is helpful for decreasing the user’s memory load, it feels like repeated information as the same navigation tool is available in the menu. This screenshot shows that there’s a bar above the article title that says “Home/Campaigns/Title of the Article.” **(2)**
 
-<img src="./Consistency.png">
+<img src="./consistency.png">
 
  
 ### 7: Flexibility and efficiency of use 
