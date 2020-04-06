@@ -14,14 +14,15 @@ The website is functional and works well but has some UX issues that could help 
 
 ### 1: Visibility System of Status
 There should be an indication to the user that the menu bar can be expanded for example an arrow or some sort of indicator. The resources page does not expand like the others so a user might hover over it and wait to see if it expands. **(1)**
+
 <img src="./FreedomViolation.png">
 
 Throughout the website, there are indicators that the user has selected an option whether it be changing the color of the item. This informs the user that their interaction with the system worked and is a good use of this heuristic. Overall, there are consistent indicators for the user that helps support the visibility of system status. 
 
-### 2: Match between system and the real world 
-Search function works well.  
+<img src="./Good-visibility.png">
 
-Icons for social media allow the user to make the connection between the icon and the social media. 
+### 2: Match between system and the real world 
+Overall there's a good match between the system and real world concepts. The search function works well and as expected. There's a common addition throughout the website that has icons for social media that allows the user to make the connection between the icon and the social media. 
 
 An issue could be seen with the calendar where they have events from previous years. When someone thinks of events, they think of upcoming events and may be misled if they saw events from last year. This doesn’t follow common conventions for event pages and an alternative method for showcasing previous events should be explored. **(2)** 
 
@@ -71,6 +72,7 @@ The home page has a red bar that has a message regarding American rights advocac
 <img src="./minimalistdesignscrollthing.png">
 
 On every page there is a share link bar that can feel fairly imposing at times and is even visible for the search page which isn’t necessarily something a user is likely to share, making it just a new element on the page. **(1)**
+<img src="./Share-button.png">
  
 ### 9: Help users recognize, diagnose and recover from errors
 If a user inputs a nonexistent address, it provides the user with an input error that specifies that the address was the incorrect input. This is fairly good as it provides the user with a specific error they can fix. 
@@ -82,7 +84,7 @@ If there’s an incorrect search term, the search offers an error and helps the 
 ### 10: Help and documentation 
 This FAQ page can be improved in terms of design as it just offers a list of questions and a very wordy documentation. It could be improved in terms of size by having the questions serve as a clickable and expandable feature. This would decrease how long it takes to go through the page and can help the user pick the appropriate question without having to go through a lot of information. **(2)**
  
- 
+<img src="./FAQ.png">
 
 
 
