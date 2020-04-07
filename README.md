@@ -1,14 +1,20 @@
 # Human Rights Education 
 
-## DH150 Assignment 1: Heuristic Evaluation
-Education is the key to social change. Many nonprofit organizations work to educate the public and get them involved with enacting tangible change. Through comprehensive and easy to use websites, users can learn more during their visit and can be more engaged with the educational material. Becoming educated about human rights issues around the world is the first step in understanding how we can help. Human rights nonprofit organizations typically have two focuses: educating the public and providing services and resources to those effected. The first organization I want to focus on is Human Rights First which focuses on advocacy for American ideals through a similar approach. They provide services and have been well established for sometime in their adovcacy efforts. The second organization I want to explore is the Advocates for Human Rights as their website offers educational material as well as a variety of resources and services. By improving the design of this website and making it more user friendly, it will aid both in relaying their educational material better and making the website easy to use for those seeking their legal services. Both of these websites are used to educate the public to bring awareness about a variety of issues but has a strong emphasis on refugee and immigrant rights. As both of them offer legal services to refugees and those seeking asylum, I personally find it a worthwhile effort to try to improve the usability of the websites. With my heuristic evaluation I hope to set out to discover ways to make their websites better for users interested in exploring these nonprofit organizations and their cause as well to those seeking out the legal services.
+## DH150 Assignment 1: Heuristic Evaluation by Marina Souliman
+Education is the key to social change. Many nonprofit organizations work to educate the public and get them involved with enacting tangible change. Through comprehensive and easy to use websites, users can learn more during their visit and can be more engaged with the educational material. Becoming educated about human rights issues around the world is the first step in understanding how we can help. Human rights nonprofit organizations typically have two focuses: educating the public and providing services and resources to those effected. The first organization I want to focus on is Human Rights First which focuses on advocacy for American ideals through a similar approach. They provide services and have been well established for sometime in their adovcacy efforts. The second organization I want to explore is the Advocates for Human Rights as their website offers educational material as well as a variety of resources and services. By improving the design of this website and making it more user friendly, it will aid both in relaying their educational material better and making the website easy to use for those seeking their legal services. Both of these websites are used to educate the public to bring awareness about a variety of issues but has a strong emphasis on refugee and immigrant rights. As both of them offer legal services to refugees and those seeking asylum, I personally find it a worthwhile effort to try to improve the usability of the websites. With my heuristic evaluation I hope to set out to discover ways to make their websites better for users interested in exploring these nonprofit organizations and their cause as well to those seeking out the legal services. 
+
+## Heuristic Evaluation Severity Scale 
+
+1 = Cosmetic problem only: need not be fixed unless extra time is available on project
+2 = Minor usability problem: fixing this should be given low priority
+3 = Major usability problem: important to fix, so should be given high priority
 
 ## Website 1: Human Rights First 
 https://www.humanrightsfirst.org/
 
 The Human Rights First website starts at the home page with a heading bar that allows for a user to navigate through an about page, campaigns, topics, resources, media and vets for american ideals. Below that is a slideshow type graphic that offers a look at their initiatives and events. There are a lot of resources and services offered on this website for both the general public and those seeking legal services. 
  
-The website is functional and works well but has some UX issues that could help improve usability. It’s often at times overwhelming with a lot of text and has a design that could be more cohesive with a better flow for information. There are some features that feel outdated and could be designed in a more appealing manner. Overall, it’s a functional website that could use a little bit of sprucing up when it comes to certain features. 
+The website is functional and works well but has some UX issues that could help improve usability. It’s often at times overwhelming with a lot of text and has a design that could be more cohesive with a better flow for information. There are some features that feel outdated and could be designed in a more appealing manner. Having a more user friendly website will help users engage with the material more and more importantly it will be easier for those seeking services. Overall, it’s a functional website that could use a little bit of sprucing up when it comes to certain features I will discuss later in the heuristic evaluation. 
 
 <img src="./Human Rights First Webpage Screenshot.png">
 
@@ -17,19 +23,20 @@ There should be an indication to the user that the menu bar can be expanded for 
 
 <img src="./FreedomViolation.png">
 
-Throughout the website, there are indicators that the user has selected an option whether it be changing the color of the item. This informs the user that their interaction with the system worked and is a good use of this heuristic. Overall, there are consistent indicators for the user that helps support the visibility of system status. 
+Throughout the website, there are indicators that the user has selected an option whether it be changing the color of the item. This informs the user that their interaction with the system worked and is a good use of this heuristic. Overall, there are consistent indicators for the user that helps support the visibility of system status with very minimal issues.  
 
 <img src="./Good-visibility.png">
 
 ### 2: Match between system and the real world 
-Overall there's a good match between the system and real world concepts. The search function works well and as expected. There's a common addition throughout the website that has icons for social media that allows the user to make the connection between the icon and the social media. 
 
-An issue could be seen with the calendar where they have events from previous years. When someone thinks of events, they think of upcoming events and may be misled if they saw events from last year. This doesn’t follow common conventions for event pages and an alternative method for showcasing previous events should be explored. **(2)** 
+An issue could be seen with the calendar where they have events from previous years. When someone thinks of events, they think of upcoming events and may be misled if they saw events from last year. This doesn’t follow common conventions for event pages and an alternative method for showcasing previous events should be explored. It's important to make a clear distinction between current events and archived events so as to avoid confusion for the user. **(2)** 
 
 <img src="./EventsPage.png">
 
+Overall there's a good match between the system and real world concepts. The search function works well and as expected. There's a common addition throughout the website that has icons for social media that allows the user to make the connection between the icon and the social media. With the exception of the events page, there's not much difficulty for the user in matching certain elements between the system and the real world. 
+
 ### 3: User Control and Freedom 
-If a user clicks on the search button on the top right corner on accident without searching any terms it takes them to the search page. It should not take a user to a different page if they have not searched any items as it can be assumed if they clicked on the icon without writing anything in the search bar it was by mistake. **(2)**
+If a user clicks on the search button on the top right corner on accident without searching any terms it takes them to the search page. It should not take a user to a different page if they have not searched any items as it can be assumed if they clicked on the icon without writing anything in the search bar it was by mistake. There's no "emergency exit" as well. Making a condition where if the user doesn't input any search keywords but clicks the search icon, they shouldn't be removed from the current page is helpful in fixing this issue. **(2)**
 
 <img src="./searchviolation.png">
 
@@ -37,14 +44,16 @@ The website has clickable social media icons that change the current page a user
 
 If you click on the Vets for American Ideals, it takes you to a new webpage for a different organization. This is misleading to the user as it’s placed with other elements of the website. **(3)**
 
+An issue with the user control and freedom heuristic can be seen with links that exit out of the webpage without the user expecting it to do so. Having the link open in a new window might be beneficial in giving the user more freedom with going back and forth between the webpages. 
+
 <img src="./FreedomViolation.png">
 
 ### 4: Consistency and Standards
-At the bottom of the webpage there is a sign up button next to the asylum and donate button. Sign up buttons are typically on the top right corner and it would probably be more visible to the user if it was there. **(2)**
+At the bottom of the webpage there is a sign up button next to the asylum and donate button. Sign up buttons are typically on the top right corner and it would probably be more visible to the user if it was there. This is inconsistent with the conventions of most websites and probably decreases the likelihood for a user to find the appropriate button. **(2)**
 
 <img src="./consistency.png">
 
-The sign up button and the Take action button are both third on that list of buttons which may confuse the user that they are the same action when in fact they are not. **(3)**
+Furthermore, there are inconsistencies within the website itself. The sign up button and the Take action button are both third on the list of buttons shown below. This may confuse the user that they are the same action when in fact they are not. They should keep it consistent  **(3)**
 
 <img src="./takeaction.png">
 <img src="./signup.png">
