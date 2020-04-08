@@ -115,24 +115,26 @@ This FAQ page can be improved in terms of design as it just offers a list of que
 
 
 ## Website 2: The Advocates for Human Rights 
+
 https://www.theadvocatesforhumanrights.org/
+
 The second website I'm analyzing is The Advocates for Human Rights. Similar to the previous website, there's a home page with a navigation toolbar near the top. It helps users navigate through the pages in a categorized way. The majority of the content is heavily centered in the middle of the page. The text is very basic and there are not many visuals or images provided on the website with the exception of three or four images. The website is very basic but is extremely text heavy. It's difficult to navigate at times because of at times clunky design and because it doesn't utilize the entire webpage it feels very crowded. 
 
-There are a lot of places where improvement can occur for the sake of the usability. Overall, using more design elements to separate the text and effectively relay the information is essential in improving usability. Consolidating certain elements and webpages would be very helpful in having a more minimalist design. Utilizing the entire space provided on the webpage in an organized manner would make the website a lot easier to use. 
+There are a lot of places where improvement can occur for the sake of the usability. Overall, using more design elements to separate the text and effectively relay the information is essential in improving usability. Consolidating certain elements and webpages would be very helpful in having a more minimalist design that is easier to navigate. Utilizing the entire space provided on the webpage in an organized manner would make the website a lot easier to use. 
 
 <img src="./The Advocates for Human Rights-WebpageScreenshot.png">
 
 ### 1: Visibility System of Status
-On the sidebar to the left, there are categorized quick links. When you hover over them there’s no indication that it’s being selected. This is inconsistent with the rest of the website as when you over other links they’re often underlined or change color. **(2)**
+On the sidebar to the left, there are categorized quick links. When you hover over them there’s no indication that it’s being selected. This is inconsistent with the rest of the website as when you over other links they’re often underlined or change color. Fixing this would be helpful in improving the visibility system of status. **(2)**
 
 <img src="./vss1.png">
 
-On the quicklinks page, there’s a link to a sub-organization focused on violence against women. This takes you to a completely different website with no warning. **(1)**
+On the quicklinks page, there’s a link to a sub-organization focused on violence against women. This takes you to a completely different website with no warning. There's no clear indication it does that and is an unexpected action the user may not anticipate. **(1)**
 
 <img src="./Screen Shot 2020-04-06 at 2.36.20 AM.png">
 
 ### 2: Match between system and the real world
-Like many websites, this website offers a search option. It’s just marked as a simple box with the word search next to it which works and follows a lot of the same standards as other websites. 
+Like many websites, this website offers a search option. It’s just marked as a simple box with the word search next to it which works and follows a lot of the same standards as other websites. They can rely on their previous experiences with searching for things and assign them to the same search element on the website.  
 
 <img src="./match.png">
 
@@ -140,15 +142,19 @@ The website also utilizes social media icons to represent links that lead to the
 
 <img src="./socialmedia.png">
 
+There aren't a lot of apparent issues with matching the system and the real world as it follows common world concepts. Therefore, this heuristic is pretty well established within this website.
+
 ### 3: User Control and Freedom
-When a user searches something in the search bar, it takes them to a google search window that is separate from the website. There’s no undo button except for the regular web browser button. There is no expectation that the webpage would take it to a Google search and no way provided by the website itself to exit, making it a violation of the user’s control. 
+When a user searches something in the search bar, it takes them to a google search window that is separate from the website. There’s no undo button except for the regular web browser button. There is no expectation that the webpage would take it to a Google search and no way provided by the website itself to exit, making it a violation of the user’s control. **(3)**
+
+This is an important issue to fix as it takes the user to a completely different site and doesn't support their ability to freely utilize the webpage and takes away some level of control from them. 
 
 ### 4: Consistency and Standards
-These two actions serve very similar purposes but can be confusing to the user as the phrasing “Take Action” is vague. The links underneath Take Action could be provided under Volunteer as a subsection. **(3)**
+These two actions serve very similar purposes but can be confusing to the user as the phrasing “Take Action” is vague. The links underneath Take Action could be provided under Volunteer as a subsection. Consolidating these two pages or making a more clear distinction could benefit consistency. **(3)**
 
 <img src="./cons-stand-1.png">
 
-The navigation bar has a Blog option but under news and events there’s an E-news option that has no further explanation. The user does not know if the blog and e-news are the same options and thus this is inconsistent. 
+The navigation bar has a Blog option but under news and events there’s an E-news option that has no further explanation. The user does not know if the blog and e-news are the same options and thus this is inconsistent. These are three options given to the user without much clarification as to what any of them really entail when they choose the option. 
 
 <img src="./const-2.png">
 
@@ -162,13 +168,14 @@ The navigation bar has a Blog option but under news and events there’s an E-ne
 
 The search option offers no auto-suggestion or method of preventing users from making search mistakes. It would be helpful to see auto suggestions for search items a user is looking up depending on more frequently searched terms. **(2)**
 
+In terms of error prevention, where there is potential to make an error, the system warns the user. For example, when a user mispells a search engine, they tell their user that the there's an issue with the email. 
 
 ### 6: Recognition rather than recall
 When clicking the donate button, there’s an option for the user to log in. However there is no clear place where a user is prompted to create an account if they’re a new user. It’s not a visible option and thus user must actively search to find a way to make an account. **(2)**
 
 <img src="./donatesignup.png">
 
-The donate button is very apparent as when you’re on any page, there are three options available for you to donate. Although repetitive, it allows the user ease of access for that option. **(2)**
+The donate button is very apparent as when you’re on any page, there are three options available for you to donate. This is helpful in terms of the recognition heuristic but it feels like it is an overused heurisitc that may affect the usability of the website. **(2)**
 
 <img src="./donatealot.png">
 
@@ -181,7 +188,7 @@ There’s a plugin calendar provided on the events page. This allows the user to
 
 <img src="./calendar.png">
 
-This website has a common accelerator where if you click on the logo it will lead to the home page. However, this is inconsistent and doesn’t work when you try to exit out of the donate page. 
+This website has a common accelerator where if you click on the logo it will lead to the home page. However, this is inconsistent and doesn’t work when you try to exit out of the donate page. **(2)**
 
 <img src="./accelerator.png">
 
