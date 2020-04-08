@@ -1,4 +1,4 @@
-# Human Rights Education 
+# Human Rights Advocacy  
 
 ## DH150 Assignment 1: Heuristic Evaluation by Marina Souliman
 Education is the key to social change. Many nonprofit organizations work to educate the public and get them involved with enacting tangible change. Through comprehensive and easy to use websites, users can learn more during their visit and can be more engaged with the educational material. Becoming educated about human rights issues around the world is the first step in understanding how we can help. Human rights nonprofit organizations typically have two focuses: educating the public and providing services and resources to those effected. The first organization I want to focus on is Human Rights First which focuses on advocacy for American ideals through a similar approach. They provide services and have been well established for sometime in their adovcacy efforts. The second organization I want to explore is the Advocates for Human Rights as their website offers educational material as well as a variety of resources and services. By improving the design of this website and making it more user friendly, it will aid both in relaying their educational material better and making the website easy to use for those seeking their legal services. Both of these websites are used to educate the public to bring awareness about a variety of issues but has a strong emphasis on refugee and immigrant rights. As both of them offer legal services to refugees and those seeking asylum, I personally find it a worthwhile effort to try to improve the usability of the websites. With my heuristic evaluation I hope to set out to discover ways to make their websites better for users interested in exploring these nonprofit organizations and their cause as well to those seeking out the legal services. 
@@ -53,20 +53,20 @@ At the bottom of the webpage there is a sign up button next to the asylum and do
 
 <img src="./consistency.png">
 
-Furthermore, there are inconsistencies within the website itself. The sign up button and the Take action button are both third on the list of buttons shown below. This may confuse the user that they are the same action when in fact they are not. They should keep it consistent  **(3)**
+Furthermore, there are inconsistencies within the website itself. The sign up button and the Take action button are both third on the list of buttons shown below. This may confuse the user that they are the same action when in fact they are not. They should keep it consistent. Ths is further an issue because the Sign Up action and Take Action might be considered the same to a user and therefore there must be a clear distinction in design for the buttons. **(3)**
 
 <img src="./takeaction.png">
 <img src="./signup.png">
 
 ### 5: Error Prevention 
-If a user enters the wrong spelling for their email engine there is no warning given and the error is not prevented. In fact, it allows the user to continue on and makes it so they have signed up to the mailing server. The user would not know that they made this error and therefore would wrongfully believe that they were signed up to the mailing list. **(3)**
+If a user enters the wrong spelling for their email engine there is no warning given and the error is not prevented. In fact, it allows the user to continue on and makes it so they have signed up to the mailing server. The user would not know that they made this error and therefore would wrongfully believe that they were signed up to the mailing list. This is a crucial error for a nonprofit organization that relies on newsletters to get their information out to users. **(3)**
 
 <img src="./Email Error.png">
 
  
 ### 6: Recognition rather than recall
  
-The website is very good at categorizing the articles under the specific campaigns or categories so users don’t need to remember what campaign they were looking at. 
+The website is very good at categorizing the articles under the specific campaigns or categories so users don’t need to remember what campaign they were looking at. This is an example of good use of the hueristic.
 
 <img src="./Goodconsistency.png">
 
@@ -74,18 +74,19 @@ On every page there’s a navigation tool that shows the user where they are in 
 
 <img src="./navigation2.png">
 
+The website has good uses for recognition over recall as seen with the categorizing for the articles but there are some features such as the navigation tool that is overly reliant on recognition. 
  
 ### 7: Flexibility and efficiency of use 
-An accelerator that is very common among websites is allowing the logo for the website to take the user to the home. 
+An accelerator that is very common among websites is allowing the logo for the website to take the user to the home. This is seen on many websites and a good use of this heuristic is seen in through providing a clickable logo to take the user to the home page. 
 
 <img src="./accelator.png">
 
-These are also considered accelerators that allow the user to go quickly to the social media website. This is a fast way to get to the websites and is available to the user at all times. 
+These are also considered accelerators that allow the user to go quickly to the social media website. This is a fast way to get to the websites and is available to the user at all times. This allows for more flexible use in terms of finding the social media for the organization. However, there's a difficulty that comes with having those social media icons readily available where the user may accidentally click on it. Having a social media tab in the menu might benefit the flexibility without having an effect on the usability **(2)**
 
 <img src="./social media.png">
  
 ### 8: Aesthetic and minimalist design 
-The website is very text heavy on the media press releases page and has a lot of information going on. I think providing an article headline and a date to the press release is a more aesthetic design. I personally found the text heavy links very overwhelming and it stopped me from exploring that page. **(3)**
+The website is very text heavy on the media press releases page and has a lot of information going on. I think providing an article headline and a date to the press release is a more aesthetic design. I personally found the text heavy links very overwhelming and it stopped me from exploring that page. Utilizing more design features that separate text easily would benefit disseminating the information. **(3)**
 
 <img src="./WordyText.png">
 
@@ -93,7 +94,8 @@ The home page has a red bar that has a message regarding American rights advocac
 
 <img src="./minimalistdesignscrollthing.png">
 
-On every page there is a share link bar that can feel fairly imposing at times and is even visible for the search page which isn’t necessarily something a user is likely to share, making it just a new element on the page. **(1)**
+On every page there is a share link bar that can feel fairly imposing at times and is even visible for the search page which isn’t necessarily something a user is likely to share, making it just an unnecessary element on the page. **(1)**
+
 <img src="./Share-button.png">
  
 ### 9: Help users recognize, diagnose and recover from errors
@@ -103,6 +105,8 @@ If a user inputs a nonexistent address, it provides the user with an input error
 
 If there’s an incorrect search term, the search offers an error and helps the user figure out what the issue is. 
 <img src="./searchengine.png">
+
+There are pretty good measures when it comes to helping users fix errors with text that's coherent and clear. More importantly, there aren't a lot of points where users can make errors and where there are, the website does not disappoint in providing detailed instructions.
  
 ### 10: Help and documentation 
 This FAQ page can be improved in terms of design as it just offers a list of questions and a very wordy documentation. It could be improved in terms of size by having the questions serve as a clickable and expandable feature. This would decrease how long it takes to go through the page and can help the user pick the appropriate question without having to go through a lot of information. **(2)**
