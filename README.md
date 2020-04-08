@@ -13,6 +13,7 @@ Education is the key to social change. Many nonprofit organizations work to educ
 
 
 ## Website 1: Human Rights First 
+
 https://www.humanrightsfirst.org/
 
 The Human Rights First website starts at the home page with a heading bar that allows for a user to navigate through an about page, campaigns, topics, resources, media and vets for american ideals. Below that is a slideshow type graphic that offers a look at their initiatives and events. There are a lot of resources and services offered on this website for both the general public and those seeking legal services. 
