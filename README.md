@@ -6,8 +6,11 @@ Education is the key to social change. Many nonprofit organizations work to educ
 ## Heuristic Evaluation Severity Scale 
 
 1 = Cosmetic problem only: need not be fixed unless extra time is available on project
+
 2 = Minor usability problem: fixing this should be given low priority
+
 3 = Major usability problem: important to fix, so should be given high priority
+
 
 ## Website 1: Human Rights First 
 https://www.humanrightsfirst.org/
