@@ -14,7 +14,7 @@ Education is the key to social change. Many nonprofit organizations work to educ
 
 ## Website 1: Human Rights First 
 
-[link to Google!](http://google.com)
+[Human Rights First Website](http://www.humanrightsfirst.org/)
 
 The Human Rights First website starts at the home page with a heading bar that allows for a user to navigate through an about page, campaigns, topics, resources, media and vets for american ideals. Below that is a slideshow type graphic that offers a look at their initiatives and events. There are a lot of resources and services offered on this website for both the general public and those seeking legal services. 
  
@@ -120,7 +120,7 @@ This FAQ page can be improved in terms of design as it just offers a list of que
 
 ## Website 2: The Advocates for Human Rights 
 
-https://www.theadvocatesforhumanrights.org/
+[The Advocates for Human Rights Website](https://www.theadvocatesforhumanrights.org/)
 
 
 The second website I'm analyzing is The Advocates for Human Rights. Similar to the previous website, there's a home page with a navigation toolbar near the top. It helps users navigate through the pages in a categorized way. The majority of the content is heavily centered in the middle of the page. The text is very basic and there are not many visuals or images provided on the website with the exception of three or four images. The website is very basic but is extremely text heavy. It's difficult to navigate at times because of at times clunky design and because it doesn't utilize the entire webpage it feels very crowded. 
