@@ -193,7 +193,7 @@ This website has a common accelerator where if you click on the logo it will lea
 <img src="./accelerator.png">
 
 ### 8: Aesthetic and minimalist design
-The website has a lot of text information in a very small space so it makes it feel overwhelming to the user. The design feels busy and somewhat frustrating to use. The website has two color columns on either side of the website that don’t serve any purpose and just take up space. **(3)**
+The website has a lot of text information in a very small space so it makes it feel overwhelming to the user. The design feels busy and somewhat frustrating to use. The website has two color columns on either side of the website that don’t serve any purpose and just take up space. Utilizing the entirety of the space could be immensely beneficial to the usability of the website and organization. **(3)**
 
 <img src="./Screen Shot 2020-04-06 at 2.37.06 AM.png">
 
@@ -202,7 +202,7 @@ These two actions are right next to each other and offer very similar informatio
 <img src="./cons-stand-1.png">
 
 ### 9: Help users recognize, diagnose and recover from errors
-The website has a nonspecific message for the user when they enter an email and password combo. Furthermore, although I do not have an account made it’s not stating there’s no account of that nature. A more descriptive error message would be helpful in users recognize the issue. **(2)**
+The website has a nonspecific message for the user when they enter an incorrect email and password combo. Furthermore, although I do not have an account made it’s not stating there’s no account of that nature. A more descriptive error message would be helpful in users recognize the issue. **(2)**
 
 <img src="./Screen Shot 2020-04-06 at 3.50.31 AM.png">
 
