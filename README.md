@@ -61,7 +61,7 @@ Furthermore, there are inconsistencies within the website itself. The sign up bu
 ### 5: Error Prevention 
 If a user enters the wrong spelling for their email engine there is no warning given and the error is not prevented. In fact, it allows the user to continue on and makes it so they have signed up to the mailing server. The user would not know that they made this error and therefore would wrongfully believe that they were signed up to the mailing list. This is a crucial error for a nonprofit organization that relies on newsletters to get their information out to users. **(3)**
 
-<img src="./Email Error.png">
+<img src="./Email Error .png">
 
  
 ### 6: Recognition rather than recall
