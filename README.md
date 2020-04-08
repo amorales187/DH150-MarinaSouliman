@@ -78,7 +78,7 @@ On every page there’s a navigation tool that shows the user where they are in 
 
 <img src="./navigation2.png">
 
-The website has good uses for recognition over recall as seen with the categorizing for the articles but there are some features such as the navigation tool that is overly reliant on recognition. 
+Overall, the website has good uses for recognition over recall as seen with the categorizing for the articles but there are some features such as the navigation tool that is overly reliant on recognition. 
  
 ### 7: Flexibility and efficiency of use 
 An accelerator that is very common among websites is allowing the logo for the website to take the user to the home. This is seen on many websites and a good use of this heuristic is seen in through providing a clickable logo to take the user to the home page. 
