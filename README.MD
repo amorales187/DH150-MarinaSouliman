@@ -1,1 +1,29 @@
+# DH 150 Assignment 2- Marina Souliman
+## Pilot Usability Test 
+
+### Introduction
+
+For this user testing pilot, I wanted to test the usability of the Advocates for Human Rights website. This website has several target populations and I wanted to test how usability might be different for those separate populations. It offers services for those seeking asylum but it also offers options for volunteering so I tried to gear my usertesting to better understand the two experiences better. Usability for this website is crucial as making the website easier to use would have a great effect on how people engage with the organization and make involvement more likely. I focused on testing four important features of the website that are integral to the website’s function: event information, education access, volunteer accessibility and asylum service information. I decided to add a fourth task to test how usability would be for someone seeking service information but I wanted to make sure that I had three other core usability tests that focused on other aspects of the website. 
+
+### Methodology
+I screen recorded the screen and the participant as they completed my user testing through an online screen recorder called APowersoft. I moderated the session by introducing the user to the website and being there if any questions came up. I was seated next to the participant but out of the view of the camera to ensure I was not a distracting figure. The user had the website situated on the left side of the screen with the user testing script on the right side. They were first introduced to the user testing process and consent form. The user was then asked to look at the website and rate their first impressions. They then completed four tasks meant to look at different features of the website and their usability. 
+
+### Main usability issues I discovered
+When I did my heuristic analysis of the website, I found the website clunky and overpowering with how much information is presented on a singular page. I think a lot of the issues I found were based on my increased use of the website. Basically, the more I spent time on the website, the more I realized issues with the website which may not translate with my user testing as my user was only on the website for about twenty minutes. There were some passive issues with signing up for newsletters in terms of error documentation that I wasn’t able to test appropriately but are still points I want to focus on. 
+
+### Survey Link 
+User testing form: https://forms.gle/kMG6zsxdBS773fwd7
+
+### Video Link 
+https://drive.google.com/open?id=1NuRLNsUEGrJZFGpKx9dDe46rWwuAZwx2
+
+### Reflection/Potential improvements
+
+This pilot testing taught me a lot about both the process of usability testing as well as the website’s usability. 
+
+First, I learned a lot about the process of usability testing while preparing the material and the distinction between my heuristic analysis and actual use of the website. When I approached my heuristic analysis, I found that I was finding a lot of issues because I was trying to learn the ins and outs of the website. For example, I found issues that would happen if there was user error. This was difficult to emulate in the user testing so I focused on finding out more about the usability of certain tasks an average user would use. I tested the usability of the event page and discovered more issues that the user brought up that I didn’t even realize were potential points of improvement. That was very helpful as they provided input as to how they would’ve liked the page to be. I thought they would have more trouble in completing the tasks as the website was very information heavy but to my surprise, they completed it with relative ease. I also tested how they can find information about volunteering and educational material that seemed like it went relatively smoothly. The purpose of that was to see what the average volunteer or person seeking information would encounter. I discovered that the information provided on the website is available but could just be organized a bit better as the user took a little bit longer to complete those tasks. For the last task, the user found most of the information necessary but they weren’t sure if they were properly completing the task. The information wasn’t very visible as the website is text heavy leading to some ambiguity. 
+
+I learned that the experience is not what it seems at first. I think I had an issue with speaking up and engaging with my user and encouraging them. I stayed quiet unless there was an issue because I didn’t want to disrupt them but I think I could’ve gotten more out of the pilot if I was engaging with the user more. With more practice I think it’ll be easier to guide along the process. I also thought that because of the high user rating that my analysis of the website was incorrect and that the severity of the issues I saw weren’t as accurate. However, after looking at the recording I see that the user may have rated the website more highly than I expected but that they still had issues. In terms of the software and accessibility to the material the user testing was successful. I know I need to work on my demeanor during the user testing as a moderator and have more focused tasks that will challenge the usability of the website more. 
+
+Overall, this was a really eye opening experience and an interesting start at looking at how I want to change my testing. 
 
