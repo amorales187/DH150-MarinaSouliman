@@ -9,11 +9,10 @@ For this user testing pilot, I wanted to test the usability of the Advocates for
 I screen recorded the screen and the participant as they completed my user testing through an online screen recorder called APowersoft. I moderated the session by introducing the user to the website and being there if any questions came up. I was seated next to the participant but out of the view of the camera to ensure I was not a distracting figure. The user had the website situated on the left side of the screen with the user testing script on the right side. They were first introduced to the user testing process and consent form. The user was then asked to look at the website and rate their first impressions. They then completed four tasks meant to look at different features of the website and their usability. 
 
 ### Survey Link 
-User testing form: https://forms.gle/kMG6zsxdBS773fwd7
+[User Testing Form](https://forms.gle/kMG6zsxdBS773fwd7)
 
 ### Video Link 
-https://drive.google.com/open?id=1NuRLNsUEGrJZFGpKx9dDe46rWwuAZwx2
-
+[Video Link](https://drive.google.com/open?id=1NuRLNsUEGrJZFGpKx9dDe46rWwuAZwx2)
 ### Reflection/Potential improvements
 
 This pilot testing taught me a lot about both the process of usability testing as well as the website’s usability. 
