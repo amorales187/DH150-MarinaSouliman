@@ -1,4 +1,4 @@
-# DH 150 Assignment 2- Marina Souliman
+# DH 150 Assignment 2: Marina Souliman
 ## Pilot Usability Test 
 
 ### Introduction
