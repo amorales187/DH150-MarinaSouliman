@@ -39,7 +39,7 @@ Please find the recordings below:
 [Part 2](https://drive.google.com/file/d/1RD72k4Kd0iDspR7sE_tUG5Xy32JIN1pJ/view?usp=sharing).
 [Part 3](https://drive.google.com/open?id=19zQ2kqVG6BdBHI_-dWLe1WKl5Zab7NMK).
 
-Please find the transcription here: [Part 1](https://docs.google.com/document/d/1ytKMT4BO7PxH1Lx1hgVyCloTe6Wd2TtrG2J8VY6HMN4/edit?usp=sharing).
+Please find the transcription [here](https://docs.google.com/document/d/1ytKMT4BO7PxH1Lx1hgVyCloTe6Wd2TtrG2J8VY6HMN4/edit?usp=sharing).
 
 ## Insights from the Interview 
 ### How important is it to you to volunteer in a group? 
