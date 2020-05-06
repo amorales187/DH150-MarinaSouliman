@@ -5,12 +5,13 @@
 Insert paragraph 
 
 ### Persona and Empathy Maps 
-#### Bernie 
+
+## Bernie 
 <img src="./Bernie_Map.png">
 
-#### Jacob
+## Jacob
 <img src="./Jacob_Map.png"> 
 
-#### Julie 
+## Julie 
 <img src="./Julie_Map.png">
 
