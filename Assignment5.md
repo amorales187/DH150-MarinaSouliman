@@ -23,5 +23,9 @@ User case: Bernie opens up the website and scrolls for a little bit. He is unsur
 
 <img src="./Bernie_Journey.png">
 
+### Scenario 2 
+Jacob is a Christian mechanical engineer from Egypt. He is active in his church and is very well known in the community as a Christian leader. He and his family have been targeted and discriminated against due to Jacob’s involvement with their church and their religious background. He is concerned for his family’s safety and wants to seek asylum in America. He hears from his coworker who is also facing discrimination about American organizations who help people with their asylum cases. He decides to research some of these organizations. 
 
+User case: Jacob sits down at his computer and translates the words “asylum seeker legal counsel” from Arabic to English. He finds a bunch of organizations and is slightly overwhelmed by the language barrier but remembers his friend recommended The Advocates for Human Rights website. He googles the organization and finds their website. It’s in English but he sees an option labeled “Asylum Seekers.” He clicks on the link and is relieved to see that there’s an Arabic translation option for the page. The page has the options free legal services, detainee information, asylum FAQ, client stories and an intake form. He reads the asylum FAQ and learns about the different asylum cases. He reads clients' stories and finds people gained asylum for religious persecution. He decides to fill in the intake form and is told he will be contacted in the next 3 weeks with information. He is relieved that he has taken this important step. 
 
+<img src="./Jacob_Journey.png">
