@@ -15,13 +15,14 @@ I created my prototype on my iPad and had my user interact with it using an Appl
 The user was able to complete all of the tasks. He had difficulty with the fourth task but ultimately completed. 
 ## Prototype 
 <img src="./OriginalWireflow.png">
+
 ### Task 1: 
 <img src="./task1.png">
 
 ### Task 2: 
 <img src="./task2.png">
 
-### Task 3 (yellow) and 4: 
+### Task 3 and 4: 
 <img src="./task3and4.png">
 
 ## Reflection : 
