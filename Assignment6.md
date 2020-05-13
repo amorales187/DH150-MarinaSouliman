@@ -14,7 +14,7 @@ I created my prototype on my iPad and had my user interact with it using an Appl
 
 The user was able to complete all of the tasks. He had difficulty with the fourth task but ultimately completed. 
 ## Prototype 
-<img src="./OriginalWireflow.png">
+<img src="./OriginalWireflow copy.png">
 
 ### Task 1: 
 <img src="./task1.png">
