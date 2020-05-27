@@ -2,11 +2,11 @@
 
 ## Marina Souliman 
 
-### Introduction: a brief statement about the project 
+### Introduction: 
 
 Many nonprofit organizations work to educate the public and get them involved with enacting tangible change. Through comprehensive and easy to use websites, users can learn more during their visit and can be more engaged with the educational material. Becoming educated about human rights issues around the world is the first step in understanding how we can help. The Advocates of Human Rights organization aims to educate the public, provide services and resources to those effected by human rights violations. Improving the website's design is crucial in making it easy and aesthetically pleasing to users who are interested in the organization and can aid in relaying the organization's method. 
 
-### Design statement: what is the issue and why do you think it's important to resolve the issue by your project
+### Design statement: 
 The Advocates for Human Rights website is functional but relies heavily on an outdated design that isn't very intuitive to many users. The design is text heavy and utilizes hyperlinks that can be lost within the wall of text. The website has a lot of repeated information and interaction points on many of its pages and reducing that clutter can be very helpful in making the webpages easier to navigate. By simplifying and reorganizing the website, we can help the functionality and design of the website greatly. 
 
 ### Competitor analysis: Heuristics 
@@ -22,22 +22,22 @@ The purpose of usability testing is to understand the functionality of the websi
 [Read more](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/README.md)
 
 ### User Research  
-
+The purpose of user research is to help us step away from our own biases and understand the user and their intentions and limitations are. User research is an important step in the design process and helps us move forward or revise our expectations of both the users and the website's usability. It allows us to understand the context in which the user would be using the product and explore the topic deeper. To do this, I employed a contextual inquiry approach and used an in person interview to conduct my user research. 
 [Read more](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment4.md)
 
 ### UX storytelling 
+UX storytelling is important in ensuring researchers think of all different types of users. Understandning who might be your potential user is crucial to understanding how different features might be accessible or used by your users. First, by making different personas a researcher steps out of their role and can better understand different types of users they might not be acquainted with. From there journey maps and scenarios are helpful in incorporating these personas with the product you are testing. It helps the researcher expand their understanding of their user base and offers a lot of insight that might otherwise be missed.
 [Read more](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment5.md)
 
+### Wireframes and graphic design element variations 
 
-### Wireframes and graphic design element variations [assignment 6 and part of 7] 
 
 ### Low-fidelity prototype [wireflow, assignment 6] 
 summary and link to the sketches {may contain the multiple versions and evaluation history)
-
+[Read more](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment6.md)
 ### High-fidelity prototype (functional, interactive prototype, assignment 7)
 
-summar sttatement and link to prototype
-
+[Read more](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment7.md)
 ### Evaluation and revision history 
 
 ### Pitch Video 
