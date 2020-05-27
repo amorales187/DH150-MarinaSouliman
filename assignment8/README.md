@@ -32,12 +32,23 @@ UX storytelling is important in ensuring researchers think of all different type
 ### Wireframes and graphic design element variations 
 
 
-### Low-fidelity prototype [wireflow, assignment 6] 
-summary and link to the sketches {may contain the multiple versions and evaluation history)
+### Low-fidelity prototype 
+This project is meant to help ease the user’s ability to navigate the Advocates for Human Rights website. The website is difficult to navigate at times as it’s wordy and not appropriately organized. The purpose of this low-fidelity prototyping is to get input from a user about how they navigate the redesigned elements and how to improve on them. I had a variety of personas focused on capturing who might visit the website. The first persona was a middle aged divorce lawyer, Bernie, who wanted to get involved with immigration law. He was tasked with finding information regarding how to become an Attorney volunteer and filling out the intake form. The second persona I used was that of Jacob, an Egyptian asylum seeker, seeking legal services. He was tasked with finding the legal intake form and finding more information about asylum seekers. Finally, the third persona is that of Julie, a new teacher looking to get involved with her community and find educational material to engage her students. I focused on these tasks because they’re central to the usability of the website and are crucial assets to the organization's services.
+
+I created my prototype on my iPad and had my user interact with it using an Apple Pencil. My prototype supports four total tasks essential to the website’s function and the organization’s services. The user was asked to
+
+- Apply to be a volunteer asylum attorney
+- Apply for legal services as an asylum seeker
+- Find educational material for schools/outreach
+- Donate money to the organization
+
 [Read more](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment6.md)
-### High-fidelity prototype (functional, interactive prototype, assignment 7)
+
+### High-fidelity prototype 
+This project is a high fidelity prototype of the Advocates of Human Rights website created on Figma. The Advocates for Human Rights is an organization that focuses on volunteering within the realm of refugee and asylum issues. The organization provides a variety of resources to refugee and asylum seekers such as legal services, educational material and support networks. This prototype was created to better showcase the functionality of three tasks and three personas, Bernie Hernandez, Jacob Solomon and Julie Lee. The three tasks are filling out a volunteer application, making a donation to the organization, filling out a client intake form and finding educational materials. The high fidelity prototype was adapted from a low fidelity prototype and used UI principles, color and typography to improve upon the design.
 
 [Read more](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment7.md)
+
 ### Evaluation and revision history 
 
 ### Pitch Video 
