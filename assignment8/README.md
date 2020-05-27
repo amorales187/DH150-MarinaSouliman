@@ -24,3 +24,8 @@ summary and link to the sketches {may contain the multiple versions and evaluati
 ### high fidelity prototype (functional, interactive prototype, assignment 7)
 
 summar sttatement and link to prototype
+
+### Evaluation and revision history 
+
+### Pitch Video 
+### Conclusion
