@@ -11,8 +11,7 @@ I have a fourth task not based on a persona but it is something I wanted to incl
 
 ## Graphical User Interface 
 
-<img src="./screen1.png">
-<img src="./screen2.png">
+<img src="./screen1.png"> <img src="./screen2.png">
 <img src="./screen3.png">
  
 
