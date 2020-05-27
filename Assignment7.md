@@ -29,7 +29,7 @@ They correctly guessed that the website is involving human rights and is based o
 Overall this was helpful to understand what people’s attention is first drawn to. I think it’s really helpful to also see what people’s thoughts are when they haven’t seen the project before and see if I maintained a good carryover for the website’s message in the redesign. 
  
 ## Accessibility 
-I checked several aspects of contrast and made sure they were atleast AA compliant through Figma plugins Spark and Contrast. I found the old website hard to read because of the text and background color contrast so I wanted to make sure that I used larger text and kept contrast in mind. 
+I checked several aspects of contrast and made sure they were atleast AA compliant through Figma plugins Spark and Contrast. I found the old website hard to read because of the text and background color contrast so I wanted to make sure that I used larger text and kept contrast in mind while creating the design. Using simple colors and not using a lot of colored text allows for easier accessibility. Using black and white text against monochromatic colors allowed for better accessibility as well. 
 
 <img src="./accessibility1.png">
 <img src="./accessibility2.png">
@@ -56,9 +56,10 @@ Reviewers said the interaction point from going to the take action to attorney v
 The cognitive walkthrough was helpful in seeing what was going right. I think it was also helpful in talking with others about how intuitive the interaction points felt. The comment about spacing was helpful as well and gaining confidence in what I had done so far was very good as I had done multiple revisions at that point. 
  
 ## Reflection 
-The design process was frustrating at first and I spent a few hours just trying to feel comfortable with Figma first. I think my design was too closely tied to the original website so I found myself changing it from my low fidelity prototype. After I got comfortable with Figma it was a lot easier to navigate my design but I still struggled with the prototyping process as it got a little convoluted with many screens. I enjoyed the process overall and I think building the website thoroughly would be a good way to improve further on the UX design for other features. Although I’m sure my design can be further improved a lot because it’s not necessarily a functioning model of the site and as other things are implemented there might be clashes, I think I definitely managed to improve on some things from the original website. 
+The design process was frustrating at first and I spent a few hours just trying to feel comfortable with Figma first. I think my design was too closely tied to the original website so I found myself changing it from my low fidelity prototype. After I got comfortable with Figma it was a lot easier to navigate my design but I still struggled with the prototyping process as it got a little convoluted with many screens. I enjoyed the process overall and I think building the website thoroughly would be a good way to improve further on the UX design for other features. Although I’m sure my design can be further improved a lot because it’s not necessarily a functioning model of the site and as other things are implemented there might be clashes, I think I definitely managed to improve on some things from the original website. Changing the logo to match the website was a really satisfying experience. 
 I think I’d like to do more cognitive walkthroughs with my other tasks and see how I can improve or if there are any issues I didn’t catch. Ideally I want to use more color throughout the website and find a good balance but I also would like to get pictures relating to the organization which weren’t readily available so I had to use the filler picture on the website. I think using more graphics would’ve been ideal but the organization doesn’t employ a lot of graphics or have many on the website that I can adapt. Using different forms of media would elevate the website’s design as well as introduce information in a greater variety of mediums. 
 
+
 ## Revisions 
-<img src="./revision1.png">
-<img src="./revision2.png">
+<img src="./revision 1.png">
+<img src="./revision 2.png">
