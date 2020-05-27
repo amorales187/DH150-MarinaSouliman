@@ -11,8 +11,10 @@ I have a fourth task not based on a persona but it is something I wanted to incl
 
 ## Graphical User Interface 
 
-Images of wireflows 
-Images of screen design 
+<img src="./screen1.png">
+<img src="./screen2.png">
+<img src="./screen3.png">
+ 
 
 In creating the web pages, I wanted to employ a simple and monochromatic color scheme. The original website has a lot of clashing colors that distract from the information on the webpage so I wanted to use a color that wouldn’t be too bright or overwhelming so I chose a blue color scheme due to its cool tones. A lot of the changes I made for the website were organizational as the original website was extremely text heavy and relied on hyperlinks. I grouped resources into their respective buttons to ensure that the user doesn’t miss any crucial information in the text heavy website. I also introduced drop down features for text heavy portions of the website so that there’s segmentation between information. I also changed the font and made the background color less pigmented. I also reorganized the header and the foot bar of the website. I made the logo for the organization more uniform and made it larger to improve visibility and I also decreased the amount of things placed in the top right to reduce clutter. The things I did keep for the header bar were made into icons or buttons. The foot bar was changed to match the color of the header and grouped the information together. Throughout the website I used different iterations of the Monterresat and Source Sans Pro fonts and maintained consistency in their usage throughout the website. I changed the drop down menu to be more concise and have less options to avoid repetition of information. I found that a lot of redesigning the website was based on decreasing moments of repetitive information and figuring out ways to present information in a more digestible and navigation-friendly way. 
 
@@ -38,10 +40,14 @@ I checked several aspects of contrast and made sure they were atleast AA complia
 Link to Prototype: https://www.figma.com/proto/Eiwy9laoXcN0HVvo19ezLa/Advocates-for-Human-Rights-Copy?node-id=89%3A1&scaling=min-zoom 
 
 ### Representative Screen Designs 
+
 <img src="./repscreen.png">
+
 ### Wireflow with Graphic Designs 
+
 <img src="./wireflow.png">
-## Cognitive Walkthrough 
+
+### Cognitive Walkthrough 
  
 During the class feedback we also did a cognitive walkthrough exercise. Although my prototype wasn’t as advanced as the complete version I had one of the tasks completed and was able to get feedback through that. I found that feedback still incredibly helpful.
 Reviewers said the interaction point from going to the take action to attorney volunteer was “Pretty straight forward” and that progress in their tasks can be seen through the interaction points. When asked about any inconsistencies they reported no consistencies so far. A comment they gave was related to how I used space in the page and to play around with my text spacings. 
