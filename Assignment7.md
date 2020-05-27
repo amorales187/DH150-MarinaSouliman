@@ -29,10 +29,18 @@ Overall this was helpful to understand what people’s attention is first drawn 
 ## Accessibility 
 I checked several aspects of contrast and made sure they were atleast AA compliant through Figma plugins Spark and Contrast. I found the old website hard to read because of the text and background color contrast so I wanted to make sure that I used larger text and kept contrast in mind. 
 
-<insert pictures> 
+<img src="./accessibility1.png">
+<img src="./accessibility2.png">
+<img src="./accessibility3.png">
+<img src="./accessibility4.png">
  
-Prototype Screens and Wireflow 
- 
+## Prototype Screens and Wireflow 
+Link to Prototype: https://www.figma.com/proto/Eiwy9laoXcN0HVvo19ezLa/Advocates-for-Human-Rights-Copy?node-id=89%3A1&scaling=min-zoom 
+
+### Representative Screen Designs 
+<img src="./repscreen.png">
+### Wireflow with Graphic Designs 
+<img src="./wireflow.png">
 ## Cognitive Walkthrough 
  
 During the class feedback we also did a cognitive walkthrough exercise. Although my prototype wasn’t as advanced as the complete version I had one of the tasks completed and was able to get feedback through that. I found that feedback still incredibly helpful.
