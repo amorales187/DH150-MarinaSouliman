@@ -39,6 +39,8 @@ I checked several aspects of contrast and made sure they were atleast AA complia
 ## Prototype Screens and Wireflow 
 Link to Prototype: https://www.figma.com/proto/Eiwy9laoXcN0HVvo19ezLa/Advocates-for-Human-Rights-Copy?node-id=89%3A1&scaling=min-zoom 
 
+Screen recording of prototype interactions: https://drive.google.com/open?id=1dFSh6m3zegrVkp3GQNC9QSgwk2esf_Yj 
+
 ### Representative Screen Designs 
 
 <img src="./repscreen.png">
@@ -56,3 +58,7 @@ The cognitive walkthrough was helpful in seeing what was going right. I think it
 ## Reflection 
 The design process was frustrating at first and I spent a few hours just trying to feel comfortable with Figma first. I think my design was too closely tied to the original website so I found myself changing it from my low fidelity prototype. After I got comfortable with Figma it was a lot easier to navigate my design but I still struggled with the prototyping process as it got a little convoluted with many screens. I enjoyed the process overall and I think building the website thoroughly would be a good way to improve further on the UX design for other features. Although I’m sure my design can be further improved a lot because it’s not necessarily a functioning model of the site and as other things are implemented there might be clashes, I think I definitely managed to improve on some things from the original website. 
 I think I’d like to do more cognitive walkthroughs with my other tasks and see how I can improve or if there are any issues I didn’t catch. Ideally I want to use more color throughout the website and find a good balance but I also would like to get pictures relating to the organization which weren’t readily available so I had to use the filler picture on the website. I think using more graphics would’ve been ideal but the organization doesn’t employ a lot of graphics or have many on the website that I can adapt. Using different forms of media would elevate the website’s design as well as introduce information in a greater variety of mediums. 
+
+## Revisions 
+<img src="./revision1.png">
+<img src="./revision2.png">
