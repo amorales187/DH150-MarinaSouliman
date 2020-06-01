@@ -1,9 +1,8 @@
 <div class="jumbotron">
-  <h1 class="display-4">Hello, world!</h1>
-  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+  <h1 class="display-4">Human Rights Advocacy Through Design</h1>
+  <p class="lead"> Human rights organizations are crucial as they provide resources for educating the public and engaging with communities that have their rights impeded upon. America has been an opportunity to many for escaping violence and discrimination but it has become increasingly difficult to seek asylum in the US due to current policies. Through this design project, I aimed to provide greater accessibility to resources provided through a human rights organiztion with the hope of easing the process of applying for asylum. </p>
   <hr class="my-4">
   <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 </div>
 
 # Human Rights Advocacy  
