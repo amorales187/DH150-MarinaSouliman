@@ -1,12 +1,9 @@
-</head>
-  <body>
-    
+<body>
     <div class="jumbotron" style="padding-top: 10vh; padding-left:0vw;">
       <h1 class="display-4">Human Rights Advocacy Through Design</h1>
       <p class="lead"> <br> Marina Souliman </p>
       <hr class="my-4">
-      <p>Human rights organizations are crucial as they provide resources for educating the public and engaging with communities that have their rights impeded upon. America has been an opportunity to many for escaping violence and discrimination but it has become increasingly difficult to seek asylum in the US due to current policies. Through this design project, I aimed to provide greater accessibility to resources provided through a human rights organiztion with the hope of easing the process of applying for asylum.
-
+      <p> Human rights organizations are crucial as they provide resources for educating the public and engaging with communities that have their rights impeded upon. America has been an opportunity to many for escaping violence and discrimination but it has become increasingly difficult to seek asylum in the US due to current policies. Through this design project, I aimed to provide greater accessibility to resources provided through a human rights organiztion with the hope of easing the process of applying for asylum.
 </p>
     </div>
       
@@ -18,8 +15,8 @@
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Design statement:</h5>
-                <p class="card-text">College radio stations are community focused in their design. Their members are composed entirely of students, faculty, and community figures. Local artists and stories are promoted. They are not held accountable to the demands of advertisers. College radio stations are a platform for the people, no strings attached. However, Radio is an aging medium. Terrestrial Radio stations and conventional radio programming may be diminishing in relevance. </p>
+                <h3 class="card-title">Design statement:</h3>
+                <p class="card-text">Many nonprofit organizations work to educate the public and get them involved with enacting tangible change. Through comprehensive and easy to use websites, users can learn more during their visit and can be more engaged with the educational material. Becoming educated about human rights issues around the world is the first step in understanding how we can help. The Advocates of Human Rights organization aims to educate the public, provide services and resources to those effected by human rights violations. Improving the website's design is crucial in making it easy and aesthetically pleasing to users who are interested in the organization and can aid in relaying the organization's method.The Advocates for Human Rights website is functional but relies heavily on an outdated design that isn't very intuitive to many users. The design is text heavy and utilizes hyperlinks that can be lost within the wall of text. The website has a lot of repeated information and interaction points on many of its pages and reducing that clutter can be very helpful in making the webpages easier to navigate. By simplifying and reorganizing the website, we can help the functionality and design of the website greatly. </p>
                 <p class="card-text"><small class="text-muted">by Jack Schaeffer </small></p>
                 <a class="btn btn-dark btn-sm" href="https://github.com/jschaefer619/DH150-Assignment02/blob/master/README.md" role="button">Learn more</a>
               </div>
@@ -151,4 +148,3 @@
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
   </body>
-</html>
