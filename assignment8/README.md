@@ -1,5 +1,5 @@
 # Human Rights Advocacy through Design 
-## Marina Souliman 
+## Created by Marina Souliman 
 
 Human rights organizations are crucial as they provide resources for educating the public and engaging with communities that have their rights impeded upon. America has been an opportunity to many for escaping violence and discrimination but it has become increasingly difficult to seek asylum in the US due to current policies. Through this design project, I aimed to provide greater accessibility to resources provided through a human rights organiztion with the hope of easing the process of applying for asylum.
 
@@ -12,6 +12,8 @@ Many nonprofit organizations work to educate the public and get them involved wi
 The Advocates for Human Rights website is functional but relies heavily on an outdated design that isn't very intuitive to many users. The design is text heavy and utilizes hyperlinks that can be lost within the wall of text. The website has a lot of repeated information and interaction points on many of its pages and reducing that clutter can be very helpful in making the webpages easier to navigate. By simplifying and reorganizing the website, we can help the functionality and design of the website greatly. 
 
 ## Competitor analysis: Heuristics 
+<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/The%20Advocates%20for%20Human%20Rights-WebpageScreenshot.png">
+
 <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/The%20Advocates%20for%20Human%20Rights-WebpageScreenshot.png">
 
 The Advocates for Human Rights has a home page with a navigation toolbar near the top. It helps users navigate through the pages in a categorized way. The majority of the content is heavily centered in the middle of the page. The text is very basic and there are not many visuals or images provided on the website with the exception of three or four images. The website is very basic but is extremely text heavy. It's difficult to navigate at times because of at times clunky design and because it doesn't utilize the entire webpage it feels very crowded. There are a lot of places where improvement can occur for the sake of the usability. Overall, using more design elements to separate the text and effectively relay the information is essential in improving usability. Consolidating certain elements and webpages would be very helpful in having a more minimalist design that is easier to navigate. Utilizing the entire space provided on the webpage in an organized manner would make the website a lot easier to use.
@@ -107,6 +109,8 @@ I checked several aspects of contrast and made sure they were atleast AA complia
 
 ### Cognitive Walkthrough 
 Although my prototype wasn’t as advanced as the complete version I had one of the tasks completed and was able to get cognitive walkthrough feedback. I found that feedback still incredibly helpful. Reviewers said the interaction point from going to the take action to attorney volunteer was “Pretty straight forward” and that progress in their tasks can be seen through the interaction points. When asked about any inconsistencies they reported no consistencies so far. A comment they gave was related to how I used space in the page and to play around with my text spacings. The cognitive walkthrough was helpful in seeing what was going right. I think it was also helpful in talking with others about how intuitive the interaction points felt. The comment about spacing was helpful as well and gaining confidence in what I had done so far was very good as I had done multiple revisions at that point. 
-## Pitch Video 
 
+## Pitch Video 
+Coming soon 
 ## Conclusion
+This research process was eye opening as my first UX project. From the beginning, I should've sought different demographics to interview but due to current circumstances I struggled to find people who fit directly into my desired demographic. I gaine a lot of understanding surrounding the complexities of user research and hope to carry what I learned moving forward. Due to time contraints, I focused a lot of my efforts on services that the organization offered as I thought those would be the most beneficial points to redesign. However, in the future I'd like to have a more holistic approach with redesigning the website to ensure that everything is seamless. One really interesting revelation I had was that I really enjoyed working with public service websites. A lot of them lack easy to use and digestible designs and attempting to figure out how to improve something that serves asylum seekers and refugees felt incredibly rewarding. 
