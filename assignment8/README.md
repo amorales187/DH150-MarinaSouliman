@@ -32,11 +32,11 @@ UX storytelling is important in ensuring researchers think of all different type
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment5.md)
 
 ### Wireframes and graphic design element variations 
-<img src="https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/OriginalWireflow%20copy.png" height="300px">
+
 
 ### Low-fidelity prototype 
 
-<img src="./OriginalWireflow copy.png">
+<img src="https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/OriginalWireflow%20copy.png" height="500px">
 
 This project is meant to help ease the user’s ability to navigate the Advocates for Human Rights website. The website is difficult to navigate at times as it’s wordy and not appropriately organized. The purpose of this low-fidelity prototyping is to get input from a user about how they navigate the redesigned elements and how to improve on them. I had a variety of personas focused on capturing who might visit the website. The first persona was a middle aged divorce lawyer, Bernie, who wanted to get involved with immigration law. He was tasked with finding information regarding how to become an Attorney volunteer and filling out the intake form. The second persona I used was that of Jacob, an Egyptian asylum seeker, seeking legal services. He was tasked with finding the legal intake form and finding more information about asylum seekers. Finally, the third persona is that of Julie, a new teacher looking to get involved with her community and find educational material to engage her students. I focused on these tasks because they’re central to the usability of the website and are crucial assets to the organization's services.
 
