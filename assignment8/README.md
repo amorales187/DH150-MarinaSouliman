@@ -1,5 +1,6 @@
 # Human Rights Advocacy through Design 
 ## Marina Souliman 
+
 Human rights organizations are crucial as they provide resources for educating the public and engaging with communities that have their rights impeded upon. America has been an opportunity to many for escaping violence and discrimination but it has become increasingly difficult to seek asylum in the US due to current policies. Through this design project, I aimed to provide greater accessibility to resources provided through a human rights organiztion with the hope of easing the process of applying for asylum.
 
 ## Introduction: 
@@ -17,7 +18,7 @@ The Advocates for Human Rights has a home page with a navigation toolbar near th
 
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment1.md)
 
-## Competitor analysis: Usability Testing
+## Usability Testing
 
 The purpose of usability testing is to understand the functionality of the website through a user's eyes. Observing their behaviors, tendencies and understanding of the website as it is is crucial to the design process and allows us to better grasp the issues we might be facing.  This website has several target populations and I wanted to test how usability might be different for those separate populations. It offers services for those seeking asylum but it also offers options for volunteering so I tried to gear my usertesting to better understand the two experiences better. Usability for this website is crucial as making the website easier to use would have a great effect on how people engage with the organization and make involvement more likely. I focused on testing four important features of the website that are integral to the website’s function: event information, education access, volunteer accessibility and asylum service information. I decided to add a fourth task to test how usability would be for someone seeking service information but I wanted to make sure that I had three other core usability tests that focused on other aspects of the website. When I did my heuristic analysis of the website, I found the website clunky and overpowering with how much information is presented on a singular page. I think a lot of the issues I found were based on my increased use of the website. Basically, the more I spent time on the website, the more I realized issues with the website which may not translate with my user testing as my user was only on the website for about twenty minutes. There were some passive issues with signing up for newsletters in terms of error documentation that I wasn’t able to test appropriately but are still points I want to focus on in improving the website. My focus was on hwo users interacted with the webiste for information they may potentially look for when first being introduced to the website such as event information, educational material and volunteering documentation.
 
@@ -77,13 +78,13 @@ This project is a high fidelity prototype of the Advocates of Human Rights websi
 ## Evaluation and revision history 
 ### Impression Test 
 I conducted the impression test during class time and was able to get feedback from my peers. I wanted to get more feedback so I was able to receive feedback from the user who initially did my user testing for the website. 
-What do you see?
+
+Some responses for what users first saw: 
 The logo for the website is the first thing I see and the image in the middle of the page. I also saw the headers for the menu. Big text font. 
-Some of the notes from our class feedback when asked about what do they see: “mission statement, image, headings, words and headings, mission statement on the home page, drop down”
- 
+Some of the notes from our class feedback when asked about what do they see: “mission statement, image, headings, words and headings, mission statement on the home page, drop down." 
 They correctly guessed that the website is involving human rights and is based on an organization that has “volunteer, take action and asylum resources.”  Some comments for the impression test were regarding the home page as reviewers said they “like the bar and that it breaks up the two sections.”
 
-Overall this was helpful to understand what people’s attention is first drawn to. I think it’s really helpful to also see what people’s thoughts are when they haven’t seen the project before and see if I maintained a good carryover for the website’s message in the redesign. 
+Overall this was helpful to understand what people’s attention is first drawn to. It’s really helpful to also see what people’s thoughts are when they haven’t seen the project before and see if I maintained a good carryover for the website’s message in the redesign. 
  
 ### Accessibility 
 I checked several aspects of contrast and made sure they were atleast AA compliant through Figma plugins Spark and Contrast. I found the old website hard to read because of the text and background color contrast so I wanted to make sure that I used larger text and kept contrast in mind while creating the design. Using simple colors and not using a lot of colored text allows for easier accessibility. Using black and white text against monochromatic colors allowed for better accessibility as well. 
@@ -105,10 +106,7 @@ I checked several aspects of contrast and made sure they were atleast AA complia
 </table>
 
 ### Cognitive Walkthrough 
- 
-During the class feedback we also did a cognitive walkthrough exercise. Although my prototype wasn’t as advanced as the complete version I had one of the tasks completed and was able to get feedback through that. I found that feedback still incredibly helpful.
-Reviewers said the interaction point from going to the take action to attorney volunteer was “Pretty straight forward” and that progress in their tasks can be seen through the interaction points. When asked about any inconsistencies they reported no consistencies so far. A comment they gave was related to how I used space in the page and to play around with my text spacings. 
-The cognitive walkthrough was helpful in seeing what was going right. I think it was also helpful in talking with others about how intuitive the interaction points felt. The comment about spacing was helpful as well and gaining confidence in what I had done so far was very good as I had done multiple revisions at that point. 
+Although my prototype wasn’t as advanced as the complete version I had one of the tasks completed and was able to get cognitive walkthrough feedback. I found that feedback still incredibly helpful. Reviewers said the interaction point from going to the take action to attorney volunteer was “Pretty straight forward” and that progress in their tasks can be seen through the interaction points. When asked about any inconsistencies they reported no consistencies so far. A comment they gave was related to how I used space in the page and to play around with my text spacings. The cognitive walkthrough was helpful in seeing what was going right. I think it was also helpful in talking with others about how intuitive the interaction points felt. The comment about spacing was helpful as well and gaining confidence in what I had done so far was very good as I had done multiple revisions at that point. 
 ## Pitch Video 
 
 ## Conclusion
