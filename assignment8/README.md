@@ -90,16 +90,16 @@ I checked several aspects of contrast and made sure they were atleast AA complia
 
 <table>
 <tr>
-<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/accessibility1.png" height="500px"> </td>
-<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/accessibility2.png" height="500px">
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/accessibility1.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/accessibility2.png">
  </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/accessibility3.png" height="500px"> </td>
-<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/accessibility4.png" height="500px">
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/accessibility3.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/accessibility4.png">
  </td>
 </tr>
 </table>
