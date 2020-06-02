@@ -11,7 +11,7 @@ Many nonprofit organizations work to educate the public and get them involved wi
 The Advocates for Human Rights website is functional but relies heavily on an outdated design that isn't very intuitive to many users. The design is text heavy and utilizes hyperlinks that can be lost within the wall of text. The website has a lot of repeated information and interaction points on many of its pages and reducing that clutter can be very helpful in making the webpages easier to navigate. By simplifying and reorganizing the website, we can help the functionality and design of the website greatly. 
 
 ### Competitor analysis: Heuristics 
-<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/The%20Advocates%20for%20Human%20Rights-WebpageScreenshot.png" height="1000px">
+<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/The%20Advocates%20for%20Human%20Rights-WebpageScreenshot.png">
 
 The Advocates for Human Rights has a home page with a navigation toolbar near the top. It helps users navigate through the pages in a categorized way. The majority of the content is heavily centered in the middle of the page. The text is very basic and there are not many visuals or images provided on the website with the exception of three or four images. The website is very basic but is extremely text heavy. It's difficult to navigate at times because of at times clunky design and because it doesn't utilize the entire webpage it feels very crowded. There are a lot of places where improvement can occur for the sake of the usability. Overall, using more design elements to separate the text and effectively relay the information is essential in improving usability. Consolidating certain elements and webpages would be very helpful in having a more minimalist design that is easier to navigate. Utilizing the entire space provided on the webpage in an organized manner would make the website a lot easier to use.
 
@@ -28,8 +28,13 @@ The purpose of user research is to help us step away from our own biases and und
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment4.md)
 
 ### UX storytelling 
-<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Map.png" height="500px">
-<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Journey.png" height="500px">
+<table>
+<tr>
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Map.png" height="500px"> </td>
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Journey.png" height="500px">
+ </td>
+</tr>
+</table>
 UX storytelling is important in ensuring researchers think of all different types of users. Understandning who might be your potential user is crucial to understanding how different features might be accessible or used by your users. First, by making different personas a researcher steps out of their role and can better understand different types of users they might not be acquainted with. From there journey maps and scenarios are helpful in incorporating these personas with the product you are testing. It helps the researcher expand their understanding of their user base and offers a lot of insight that might otherwise be missed.
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment5.md)
 
