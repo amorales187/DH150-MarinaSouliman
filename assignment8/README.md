@@ -123,7 +123,7 @@
     <div class="card mb-3" style="margin: 5vw; max-width: 90vw; border:none;">
           <div class="row no-gutters">
             <div class="col-md-4" style="background: black;">
-             <iframe class="card-img" width="560" height="315"  src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fs76Cc2VcqgLz5acemkYFE6%2FQuizShow-Demo%3Fnode-id%3D0%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
+              <img src="https://raw.githubusercontent.com/yoshinogoto/DH150-YoshinoGoto/master/Persona%201.png" style="background-size: conver;"  class="card-img" alt="High-fidelity prototype">
             </div>
             <div class="col-md-8">
               <div class="card-body">
