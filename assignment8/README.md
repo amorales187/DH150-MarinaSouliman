@@ -26,7 +26,7 @@ The purpose of user research is to help us step away from our own biases and und
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment4.md)
 
 ### UX storytelling 
-<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Map.png" height="300px">
+<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Map.png" height="500px">
 
 UX storytelling is important in ensuring researchers think of all different types of users. Understandning who might be your potential user is crucial to understanding how different features might be accessible or used by your users. First, by making different personas a researcher steps out of their role and can better understand different types of users they might not be acquainted with. From there journey maps and scenarios are helpful in incorporating these personas with the product you are testing. It helps the researcher expand their understanding of their user base and offers a lot of insight that might otherwise be missed.
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment5.md)
@@ -35,7 +35,7 @@ UX storytelling is important in ensuring researchers think of all different type
 
 
 ### Low-fidelity prototype 
-![image_caption](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/OriginalWireflow%20copy.png)
+<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/OriginalWireflow%20copy.png" height="500px">
 
 This project is meant to help ease the user’s ability to navigate the Advocates for Human Rights website. The website is difficult to navigate at times as it’s wordy and not appropriately organized. The purpose of this low-fidelity prototyping is to get input from a user about how they navigate the redesigned elements and how to improve on them. I had a variety of personas focused on capturing who might visit the website. The first persona was a middle aged divorce lawyer, Bernie, who wanted to get involved with immigration law. He was tasked with finding information regarding how to become an Attorney volunteer and filling out the intake form. The second persona I used was that of Jacob, an Egyptian asylum seeker, seeking legal services. He was tasked with finding the legal intake form and finding more information about asylum seekers. Finally, the third persona is that of Julie, a new teacher looking to get involved with her community and find educational material to engage her students. I focused on these tasks because they’re central to the usability of the website and are crucial assets to the organization's services.
 
