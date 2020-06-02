@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -8,15 +7,17 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
-    <title>DH150 UX Design: YOURNAME</title>
+    <title>DH150 UX Design: Marina Souliman </title>
   </head>
   <body>
     
     <div class="jumbotron" style="padding-top: 20vh; padding-left:5vw;">
-      <h1 class="display-4">The Glass Bead Game: Undefined</h1>
-      <p class="lead"> <br> YOURNAME </p>
+      <h1 class="display-4">Human Rights Advocacy Through Design</h1>
+      <p class="lead"> <br> Marina Souliman </p>
       <hr class="my-4">
-      <p>In this project, I will propose a novel ux design of the mobile app to enhance the aesthetic experience in local communities. In various contexts of aesthetic experience, the community plays an important role to share and culture the aesthetic taste of individuals. To offer the accessible and satisfactory user experience of aesthetics of everyday objects would be beneficial to the community especially when the mis-informatioin is widely spread without warnings.</p>
+      <p>Human rights organizations are crucial as they provide resources for educating the public and engaging with communities that have their rights impeded upon. America has been an opportunity to many for escaping violence and discrimination but it has become increasingly difficult to seek asylum in the US due to current policies. Through this design project, I aimed to provide greater accessibility to resources provided through a human rights organiztion with the hope of easing the process of applying for asylum.
+
+</p>
       <a class="btn btn-dark btn-lg" href="https://archive.org/details/MagisterLudi-TheGlassBeadGame-HermanHesse/mode/2up" role="button">Learn more</a>
     </div>
       
