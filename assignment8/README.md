@@ -15,10 +15,8 @@
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h3 class="card-title">Design statement:</h3>
+                <h3 class="card-title">Introduction & Design statement:</h3>
                 <p class="card-text">Many nonprofit organizations work to educate the public and get them involved with enacting tangible change. Through comprehensive and easy to use websites, users can learn more during their visit and can be more engaged with the educational material. Becoming educated about human rights issues around the world is the first step in understanding how we can help. The Advocates of Human Rights organization aims to educate the public, provide services and resources to those effected by human rights violations. Improving the website's design is crucial in making it easy and aesthetically pleasing to users who are interested in the organization and can aid in relaying the organization's method.The Advocates for Human Rights website is functional but relies heavily on an outdated design that isn't very intuitive to many users. The design is text heavy and utilizes hyperlinks that can be lost within the wall of text. The website has a lot of repeated information and interaction points on many of its pages and reducing that clutter can be very helpful in making the webpages easier to navigate. By simplifying and reorganizing the website, we can help the functionality and design of the website greatly. </p>
-                <p class="card-text"><small class="text-muted">by Jack Schaeffer </small></p>
-                <a class="btn btn-dark btn-sm" href="https://github.com/jschaefer619/DH150-Assignment02/blob/master/README.md" role="button">Learn more</a>
               </div>
             </div>
           </div>
@@ -31,10 +29,9 @@
             </div>
             <div class="col-md-8">
               <div class="card-body">
-                <h5 class="card-title">Heuristic Evaluation</h5>
-                <p class="card-text">The National Weather Service website works in conjunction with the National Oceanic and Atmospheric Administration. They provide local and national weather forecasts along with detailed maps that contain other meteorological information on maps. They have past weather, safety, and educational material on their website. Overall: The National Weather Service website is not an easily navigable website. However, it is very easy to get lost in the web page. Since the website works with two corporations you never know where a link will take you. This does not make the user experience smooth or enjoyable. The designs change with almost every page change and those pages are also overwhelming with different information and designs. This website needs major improvements.</p>
-                <p class="card-text"><small class="text-muted">by Emily DiPressi</small></p>
-                <a class="btn btn-dark btn-sm" href="https://github.com/emdipressi/DH150-DiPressi" role="button">Learn more</a>
+                <h5 class="card-title">Competitor Analysis: Heuristic Evaluation</h5>
+                <p class="card-text">The Advocates for Human Rights has a home page with a navigation toolbar near the top. It helps users navigate through the pages in a categorized way. The majority of the content is heavily centered in the middle of the page. The text is very basic and there are not many visuals or images provided on the website with the exception of three or four images. The website is very basic but is extremely text heavy. It's difficult to navigate at times because of at times clunky design and because it doesn't utilize the entire webpage it feels very crowded. There are a lot of places where improvement can occur for the sake of the usability. Overall, using more design elements to separate the text and effectively relay the information is essential in improving usability. Consolidating certain elements and webpages would be very helpful in having a more minimalist design that is easier to navigate. Utilizing the entire space provided on the webpage in an organized manner would make the website a lot easier to use.</p>
+                <a class="btn btn-dark btn-sm" href="https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment1.md" role="button">Read more</a>
               </div>
             </div>
           </div>
