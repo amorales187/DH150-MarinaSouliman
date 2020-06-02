@@ -1,24 +1,13 @@
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-
-    <title>DH150 UX Design: Marina Souliman </title>
-  </head>
+</head>
   <body>
     
-    <div class="jumbotron" style="padding-top: 20vh; padding-left:5vw;">
+    <div class="jumbotron" style="padding-top: 10vh; padding-left:0vw;">
       <h1 class="display-4">Human Rights Advocacy Through Design</h1>
       <p class="lead"> <br> Marina Souliman </p>
       <hr class="my-4">
       <p>Human rights organizations are crucial as they provide resources for educating the public and engaging with communities that have their rights impeded upon. America has been an opportunity to many for escaping violence and discrimination but it has become increasingly difficult to seek asylum in the US due to current policies. Through this design project, I aimed to provide greater accessibility to resources provided through a human rights organiztion with the hope of easing the process of applying for asylum.
 
 </p>
-      <a class="btn btn-dark btn-lg" href="https://archive.org/details/MagisterLudi-TheGlassBeadGame-HermanHesse/mode/2up" role="button">Learn more</a>
     </div>
       
     <!-- here is for the extra components -->
