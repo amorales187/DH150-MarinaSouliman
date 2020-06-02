@@ -1,20 +1,4 @@
-<div class="jumbotron">
-  <h1 class="display-4">Human Rights Advocacy Through Design</h1>
-  <h2 class="display-4">Created by Marina Souliman</h2>
-  <p class="lead"> Human rights organizations are crucial as they provide resources for educating the public and engaging with communities that have their rights impeded upon. America has been an opportunity to many for escaping violence and discrimination but it has become increasingly difficult to seek asylum in the US due to current policies. Through this design project, I aimed to provide greater accessibility to resources provided through a human rights organiztion with the hope of easing the process of applying for asylum. </p>
-  <hr class="my-4">
-  
-</div>
-
-<div class="card" style="width: 18rem;">
-  <img src="..." class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
-
+# Human Rights Advocacy through Design 
 ## Marina Souliman 
 
 ### Introduction: 
