@@ -75,7 +75,40 @@ This project is a high fidelity prototype of the Advocates of Human Rights websi
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FK0HY60t1yYeVmugy2P3bJX%2FAdvocates-for-Human-Rights%3Fnode-id%3D89%253A1%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ## Evaluation and revision history 
+### Impression Test 
+I conducted the impression test during class time and was able to get feedback from my peers. I wanted to get more feedback so I was able to receive feedback from the user who initially did my user testing for the website. 
+What do you see?
+The logo for the website is the first thing I see and the image in the middle of the page. I also saw the headers for the menu. Big text font. 
+Some of the notes from our class feedback when asked about what do they see: “mission statement, image, headings, words and headings, mission statement on the home page, drop down”
+ 
+They correctly guessed that the website is involving human rights and is based on an organization that has “volunteer, take action and asylum resources.”  Some comments for the impression test were regarding the home page as reviewers said they “like the bar and that it breaks up the two sections.”
 
+Overall this was helpful to understand what people’s attention is first drawn to. I think it’s really helpful to also see what people’s thoughts are when they haven’t seen the project before and see if I maintained a good carryover for the website’s message in the redesign. 
+ 
+### Accessibility 
+I checked several aspects of contrast and made sure they were atleast AA compliant through Figma plugins Spark and Contrast. I found the old website hard to read because of the text and background color contrast so I wanted to make sure that I used larger text and kept contrast in mind while creating the design. Using simple colors and not using a lot of colored text allows for easier accessibility. Using black and white text against monochromatic colors allowed for better accessibility as well. 
+
+<table>
+<tr>
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/accessibility1.png" height="500px"> </td>
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/accessibility2.png" height="500px">
+ </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/accessibility3.png" height="500px"> </td>
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/accessibility4.png" height="500px">
+ </td>
+</tr>
+</table>
+
+### Cognitive Walkthrough 
+ 
+During the class feedback we also did a cognitive walkthrough exercise. Although my prototype wasn’t as advanced as the complete version I had one of the tasks completed and was able to get feedback through that. I found that feedback still incredibly helpful.
+Reviewers said the interaction point from going to the take action to attorney volunteer was “Pretty straight forward” and that progress in their tasks can be seen through the interaction points. When asked about any inconsistencies they reported no consistencies so far. A comment they gave was related to how I used space in the page and to play around with my text spacings. 
+The cognitive walkthrough was helpful in seeing what was going right. I think it was also helpful in talking with others about how intuitive the interaction points felt. The comment about spacing was helpful as well and gaining confidence in what I had done so far was very good as I had done multiple revisions at that point. 
 ## Pitch Video 
 
 ## Conclusion
