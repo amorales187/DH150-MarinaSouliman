@@ -35,6 +35,7 @@ UX storytelling is important in ensuring researchers think of all different type
 
 
 ### Low-fidelity prototype 
+![image_caption](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/OriginalWireflow%20copy.png)
 
 <img src="https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/OriginalWireflow%20copy.png" height="500px">
 
