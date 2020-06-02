@@ -11,7 +11,7 @@ Many nonprofit organizations work to educate the public and get them involved wi
 The Advocates for Human Rights website is functional but relies heavily on an outdated design that isn't very intuitive to many users. The design is text heavy and utilizes hyperlinks that can be lost within the wall of text. The website has a lot of repeated information and interaction points on many of its pages and reducing that clutter can be very helpful in making the webpages easier to navigate. By simplifying and reorganizing the website, we can help the functionality and design of the website greatly. 
 
 ### Competitor analysis: Heuristics 
-<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/The%20Advocates%20for%20Human%20Rights-WebpageScreenshot.png" height="500px">
+<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/The%20Advocates%20for%20Human%20Rights-WebpageScreenshot.png" height="1000px">
 
 The Advocates for Human Rights has a home page with a navigation toolbar near the top. It helps users navigate through the pages in a categorized way. The majority of the content is heavily centered in the middle of the page. The text is very basic and there are not many visuals or images provided on the website with the exception of three or four images. The website is very basic but is extremely text heavy. It's difficult to navigate at times because of at times clunky design and because it doesn't utilize the entire webpage it feels very crowded. There are a lot of places where improvement can occur for the sake of the usability. Overall, using more design elements to separate the text and effectively relay the information is essential in improving usability. Consolidating certain elements and webpages would be very helpful in having a more minimalist design that is easier to navigate. Utilizing the entire space provided on the webpage in an organized manner would make the website a lot easier to use.
 
@@ -40,9 +40,13 @@ UX storytelling is important in ensuring researchers think of all different type
 
 In creating the web pages, I wanted to employ a simple and monochromatic color scheme. The original website has a lot of clashing colors that distract from the information on the webpage so I wanted to use a color that wouldn’t be too bright or overwhelming so I chose a blue color scheme due to its cool tones. A lot of the changes I made for the website were organizational as the original website was extremely text heavy and relied on hyperlinks. I grouped resources into their respective buttons to ensure that the user doesn’t miss any crucial information in the text heavy website. I also introduced drop down features for text heavy portions of the website so that there’s segmentation between information. I also changed the font and made the background color less pigmented. I also reorganized the header and the foot bar of the website. I made the logo for the organization more uniform and made it larger to improve visibility and I also decreased the amount of things placed in the top right to reduce clutter. The things I did keep for the header bar were made into icons or buttons. The foot bar was changed to match the color of the header and grouped the information together. Throughout the website I used different iterations of the Monterresat and Source Sans Pro fonts and maintained consistency in their usage throughout the website. I changed the drop down menu to be more concise and have less options to avoid repetition of information. I found that a lot of redesigning the website was based on decreasing moments of repetitive information and figuring out ways to present information in a more digestible and navigation-friendly way.
 
-<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/screen1.png" height="500px">
-<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/screen2.png" height="500px">
-
+<table>
+<tr>
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/screen1.png" height="500px"> </td>
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/screen2.png" height="500px">
+ </td>
+</tr>
+</table>
 
 ### Low-fidelity prototype 
 <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/task1.png" height="500px">
