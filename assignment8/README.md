@@ -32,7 +32,7 @@ UX storytelling is important in ensuring researchers think of all different type
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment5.md)
 
 ### Wireframes and graphic design element variations 
-
+<img src="https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/OriginalWireflow%20copy.png" height="300px">
 
 ### Low-fidelity prototype 
 
