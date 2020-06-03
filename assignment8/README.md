@@ -112,7 +112,7 @@ Although my prototype wasn’t as advanced as the complete version I had one of 
 
 ## Pitch Video 
 
-[![ADVOCATES-FOR-HUMAN-RIGHTS](http://img.youtube.com/vi/1Nbqsmkh/0.jpg)](https://www.youtube.com/watch?v=1Nbqsmkh "The Advocates for Human Rights")
+[![ADVOCATES-FOR-HUMAN-RIGHTS](https://img.youtube.com/vi/1Nbqsmkh/0.jpg)](https://www.youtube.com/watch?v=Y1Nbqsmkh)
 
 ## Conclusion
 This research process was eye opening as my first UX project. From the beginning, I should've sought different demographics to interview but due to current circumstances I struggled to find people who fit directly into my desired demographic. I gained a lot of understanding surrounding the complexities of user research and hope to carry what I learned moving forward. Due to time contraints, I focused a lot of my efforts on services that the organization offered as I thought those would be the most beneficial points to redesign. However, in the future I'd like to have a more holistic approach with redesigning the website to ensure that everything is seamless. One really interesting revelation I had was that I really enjoyed working with public service websites. A lot of them lack easy to use and digestible designs and attempting to figure out how to improve something that serves asylum seekers and refugees felt incredibly rewarding. 
