@@ -112,10 +112,6 @@ Although my prototype wasn’t as advanced as the complete version I had one of 
 
 ## Pitch Video 
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=1Nbqsmkh-ws&feature=youtu.be" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 [![ADVOCATES-FOR-HUMAN-RIGHTS](http://img.youtube.com/vi/1Nbqsmkh/0.jpg)](https://www.youtube.com/watch?v=1Nbqsmkh "The Advocates for Human Rights")
 
 ## Conclusion
