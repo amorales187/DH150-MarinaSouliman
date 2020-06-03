@@ -1,7 +1,7 @@
 # Human Rights Advocacy through Design 
 ## Created by Marina Souliman 
 
-Human rights organizations are crucial as they provide resources for educating the public and engaging with communities that have their rights impeded upon. America has been an opportunity to many for escaping violence and discrimination but it has become increasingly difficult to seek asylum in the US due to current policies. Through this design project, I aimed to provide greater accessibility to resources provided through a human rights organiztion with the hope of easing the process of applying for asylum.
+Human rights organizations are crucial as they provide resources for educating the public and engaging with communities that have their rights impeded upon. America has been an opportunity to many for escaping violence and discrimination but it has become increasingly difficult to seek asylum in the US due to current policies. Through this design project, I aimed to provide greater accessibility to resources provided through a human rights organization with the hope of easing the process of applying for asylum.
 
 <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/imageforwebpate.png" height="600px">
 
