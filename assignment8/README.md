@@ -27,7 +27,7 @@ The purpose of usability testing is to understand the functionality of the websi
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment2.md)
 
 ## User Research  
-The purpose of user research is to help us step away from our own biases and understand the user and their intentions and limitations are. User research is an important step in the design process and helps us move forward or revise our expectations of both the users and the website's usability. It allows us to understand the context in which the user would be using the product and explore the topic deeper. To do this, I employed a contextual inquiry approach and used an in person interview to conduct my user research. 
+The purpose of user research is to help us step away from our own biases and understand the user and their intentions and limitations are. User research is an important step in the design process and helps us move forward or revise our expectations of both the users and the website's usability. It allows us to understand the context in which the user would be using the product and explore the topic deeper. To do this, I employed a contextual inquiry approach and used an in person interview to conduct my user research. I was able to better understand how younger generations interact with volunteer organizations though my interview. Because the Advocates for Human Rights focuses on helping people in tough situations, I also explored how those heavy topics may affect how the user interacts with the organization. 
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment4.md)
 
 ## UX storytelling 
@@ -38,7 +38,7 @@ The purpose of user research is to help us step away from our own biases and und
  </td>
 </tr>
 </table>
-UX storytelling is important in ensuring researchers think of all different types of users. Understandning who might be your potential user is crucial to understanding how different features might be accessible or used by your users. First, by making different personas a researcher steps out of their role and can better understand different types of users they might not be acquainted with. From there journey maps and scenarios are helpful in incorporating these personas with the product you are testing. It helps the researcher expand their understanding of their user base and offers a lot of insight that might otherwise be missed.
+UX storytelling is important in ensuring researchers think of all different types of users. Understandning who might be your potential user is crucial to understanding how different features might be accessible or used by your users. First, by making different personas a researcher steps out of their role and can better understand different types of users they might not be acquainted with. From there journey maps and scenarios are helpful in incorporating these personas with the product you are testing. It helps the researcher expand their understanding of their user base and offers a lot of insight that might otherwise be missed. Above is an example of one of my users, Bernie Hernandez. I was able to create a persona and journey map and better understand this crucial type of user. 
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment5.md)
 
 ## Wireframes and graphic design element variations 
@@ -82,14 +82,14 @@ This project is a high fidelity prototype of the Advocates of Human Rights websi
 I conducted the impression test during class time and was able to get feedback from my peers. I wanted to get more feedback so I was able to receive feedback from the user who initially did my user testing for the website. 
 
 Some responses for what users first saw: 
-The logo for the website is the first thing I see and the image in the middle of the page. I also saw the headers for the menu. Big text font. 
+"The logo for the website is the first thing I see and the image in the middle of the page. I also saw the headers for the menu. Big text font. "
 Some of the notes from our class feedback when asked about what do they see: “mission statement, image, headings, words and headings, mission statement on the home page, drop down." 
 They correctly guessed that the website is involving human rights and is based on an organization that has “volunteer, take action and asylum resources.”  Some comments for the impression test were regarding the home page as reviewers said they “like the bar and that it breaks up the two sections.”
 
 Overall this was helpful to understand what people’s attention is first drawn to. It’s really helpful to also see what people’s thoughts are when they haven’t seen the project before and see if I maintained a good carryover for the website’s message in the redesign. 
  
 ### Accessibility 
-I checked several aspects of contrast and made sure they were atleast AA compliant through Figma plugins Spark and Contrast. I found the old website hard to read because of the text and background color contrast so I wanted to make sure that I used larger text and kept contrast in mind while creating the design. Using simple colors and not using a lot of colored text allows for easier accessibility. Using black and white text against monochromatic colors allowed for better accessibility as well. 
+Accessibility was a very important aspect I wanted to ensure my prototype employed. I checked several aspects of contrast and made sure they were atleast AA compliant through Figma plugins Spark and Contrast. I found the old website hard to read because of the text and background color contrast so I wanted to make sure that I used larger text and kept contrast in mind while creating the design. Using simple colors and not using a lot of colored text allows for easier accessibility. Using black and white text against monochromatic colors allowed for better accessibility as well. 
 
 <table>
 <tr>
