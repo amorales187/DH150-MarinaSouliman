@@ -111,9 +111,6 @@ I checked several aspects of contrast and made sure they were atleast AA complia
 Although my prototype wasn’t as advanced as the complete version I had one of the tasks completed and was able to get cognitive walkthrough feedback. I found that feedback still incredibly helpful. Reviewers said the interaction point from going to the take action to attorney volunteer was “Pretty straight forward” and that progress in their tasks can be seen through the interaction points. When asked about any inconsistencies they reported no consistencies so far. A comment they gave was related to how I used space in the page and to play around with my text spacings. The cognitive walkthrough was helpful in seeing what was going right. I think it was also helpful in talking with others about how intuitive the interaction points felt. The comment about spacing was helpful as well and gaining confidence in what I had done so far was very good as I had done multiple revisions at that point. 
 
 ## Pitch Video 
-<iframe class="card-img" width="560" height="315" src="https://www.youtube.com/watch?v=1Nbqsmkh-ws&feature=youtu.be" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[![The Advocates for Human Rights Pitch Video](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=1Nbqsmkh-ws&feature=youtu.be "L. Anderson")
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/watch?v=1Nbqsmkh-ws&feature=youtu.be" frameborder="0" allowfullscreen="true"> </iframe>
