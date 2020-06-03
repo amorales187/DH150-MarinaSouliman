@@ -3,6 +3,8 @@
 
 Human rights organizations are crucial as they provide resources for educating the public and engaging with communities that have their rights impeded upon. America has been an opportunity to many for escaping violence and discrimination but it has become increasingly difficult to seek asylum in the US due to current policies. Through this design project, I aimed to provide greater accessibility to resources provided through a human rights organiztion with the hope of easing the process of applying for asylum.
 
+<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/imageforwebpate.png">
+
 ## Introduction: 
 
 Many nonprofit organizations work to educate the public and get them involved with enacting tangible change. Through comprehensive and easy to use websites, users can learn more during their visit and can be more engaged with the educational material. Becoming educated about human rights issues around the world is the first step in understanding how we can help. The Advocates of Human Rights organization aims to educate the public, provide services and resources to those effected by human rights violations. Improving the website's design is crucial in making it easy and aesthetically pleasing to users who are interested in the organization and can aid in relaying the organization's method. 
