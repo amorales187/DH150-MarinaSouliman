@@ -33,13 +33,12 @@ The purpose of user research is to help us step away from our own biases and und
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment4.md)
 
 ## UX storytelling 
-<table>
-<tr>
-<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Map.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Journey.png">
- </td>
-</tr>
-</table>
+<p align="center">
+<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Map.png">
+  </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Journey.png">
+</p>
 UX storytelling is important in ensuring researchers think of all different types of users. Understandning who might be your potential user is crucial to understanding how different features might be accessible or used by your users. First, by making different personas a researcher steps out of their role and can better understand different types of users they might not be acquainted with. From there journey maps and scenarios are helpful in incorporating these personas with the product you are testing. It helps the researcher expand their understanding of their user base and offers a lot of insight that might otherwise be missed. Above is an example of one of my users, Bernie Hernandez. I was able to create a persona and journey map and better understand this crucial type of user. 
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment5.md)
 
