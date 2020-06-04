@@ -33,21 +33,24 @@ The purpose of user research is to help us step away from our own biases and und
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment4.md)
 
 ## UX storytelling 
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Map.png">
   </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Journey.png">
 </p>
+
 UX storytelling is important in ensuring researchers think of all different types of users. Understandning who might be your potential user is crucial to understanding how different features might be accessible or used by your users. First, by making different personas a researcher steps out of their role and can better understand different types of users they might not be acquainted with. From there journey maps and scenarios are helpful in incorporating these personas with the product you are testing. It helps the researcher expand their understanding of their user base and offers a lot of insight that might otherwise be missed. Above is an example of one of my users, Bernie Hernandez. I was able to create a persona and journey map and better understand this crucial type of user. 
 [Read more...](https://github.com/marinasouliman/DH150-MarinaSouliman/blob/master/Assignment5.md)
 
 ## Wireframes and graphic design element variations 
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/OriginalWireflow%20copy.png" height="500px">
+</p>
 
 In creating the web pages, I wanted to employ a simple and monochromatic color scheme. The original website has a lot of clashing colors that distract from the information on the webpage so I wanted to use a color that wouldn’t be too bright or overwhelming so I chose a blue color scheme due to its cool tones. A lot of the changes I made for the website were organizational as the original website was extremely text heavy and relied on hyperlinks. I grouped resources into their respective buttons to ensure that the user doesn’t miss any crucial information in the text heavy website. I also introduced drop down features for text heavy portions of the website so that there’s segmentation between information. I also changed the font and made the background color less pigmented. I also reorganized the header and the foot bar of the website. I made the logo for the organization more uniform and made it larger to improve visibility and I also decreased the amount of things placed in the top right to reduce clutter. The things I did keep for the header bar were made into icons or buttons. The foot bar was changed to match the color of the header and grouped the information together. Throughout the website I used different iterations of the Monterresat and Source Sans Pro fonts and maintained consistency in their usage throughout the website. I changed the drop down menu to be more concise and have less options to avoid repetition of information. I found that a lot of redesigning the website was based on decreasing moments of repetitive information and figuring out ways to present information in a more digestible and navigation-friendly way.
-
 <table>
 <tr>
 <td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/screen1.png" height="500px"> </td>
@@ -57,8 +60,11 @@ In creating the web pages, I wanted to employ a simple and monochromatic color s
 </table>
 
 ## Low-fidelity prototype 
-<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/task1.png" height="500px">
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/task1.png" height="500px">
+  </p>
+  
 This project is meant to help ease the user’s ability to navigate the Advocates for Human Rights website. The website is difficult to navigate at times as it’s wordy and not appropriately organized. The purpose of this low-fidelity prototyping is to get input from a user about how they navigate the redesigned elements and how to improve on them. I had a variety of personas focused on capturing who might visit the website. The first persona was a middle aged divorce lawyer, Bernie, who wanted to get involved with immigration law. He was tasked with finding information regarding how to become an Attorney volunteer and filling out the intake form. The second persona I used was that of Jacob, an Egyptian asylum seeker, seeking legal services. He was tasked with finding the legal intake form and finding more information about asylum seekers. Finally, the third persona is that of Julie, a new teacher looking to get involved with her community and find educational material to engage her students. I focused on these tasks because they’re central to the usability of the website and are crucial assets to the organization's services.
 
 I created my prototype on my iPad and had my user interact with it using an Apple Pencil. My prototype supports four total tasks essential to the website’s function and the organization’s services. The user was asked to
