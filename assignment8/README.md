@@ -60,6 +60,7 @@ In creating the web pages, I wanted to employ a simple and monochromatic color s
 </tr>
 </table>
 </p>
+
 ## Low-fidelity prototype 
 
 <p align="center">
