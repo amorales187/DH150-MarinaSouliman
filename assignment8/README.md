@@ -35,8 +35,8 @@ The purpose of user research is to help us step away from our own biases and und
 ## UX storytelling 
 <table>
 <tr>
-<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Map.png" height="500px"> </td>
-<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Journey.png" height="500px">
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Map.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/Bernie_Journey.png">
  </td>
 </tr>
 </table>
