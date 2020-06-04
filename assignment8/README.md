@@ -5,7 +5,7 @@ Human rights organizations are crucial as they provide resources for educating t
 
 <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/imageforwebpate.png">
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/imageforwebpate.png">
+  <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/imageforwebpate.png">
 </p>
 ## Introduction: 
 
