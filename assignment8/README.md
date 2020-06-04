@@ -51,6 +51,7 @@ UX storytelling is important in ensuring researchers think of all different type
 </p>
 
 In creating the web pages, I wanted to employ a simple and monochromatic color scheme. The original website has a lot of clashing colors that distract from the information on the webpage so I wanted to use a color that wouldn’t be too bright or overwhelming so I chose a blue color scheme due to its cool tones. A lot of the changes I made for the website were organizational as the original website was extremely text heavy and relied on hyperlinks. I grouped resources into their respective buttons to ensure that the user doesn’t miss any crucial information in the text heavy website. I also introduced drop down features for text heavy portions of the website so that there’s segmentation between information. I also changed the font and made the background color less pigmented. I also reorganized the header and the foot bar of the website. I made the logo for the organization more uniform and made it larger to improve visibility and I also decreased the amount of things placed in the top right to reduce clutter. The things I did keep for the header bar were made into icons or buttons. The foot bar was changed to match the color of the header and grouped the information together. Throughout the website I used different iterations of the Monterresat and Source Sans Pro fonts and maintained consistency in their usage throughout the website. I changed the drop down menu to be more concise and have less options to avoid repetition of information. I found that a lot of redesigning the website was based on decreasing moments of repetitive information and figuring out ways to present information in a more digestible and navigation-friendly way.
+<p align="center">
 <table>
 <tr>
 <td> <img src="https://raw.githubusercontent.com/marinasouliman/DH150-MarinaSouliman/master/screen1.png" height="500px"> </td>
@@ -58,7 +59,7 @@ In creating the web pages, I wanted to employ a simple and monochromatic color s
  </td>
 </tr>
 </table>
-
+</p>
 ## Low-fidelity prototype 
 
 <p align="center">
